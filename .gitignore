@@ -1,4 +1,4 @@
 .vscode
 .DS_Store
-/venv/*
-/stanford-postagger-full-2018-10-16/*
+venv/
+stanford-postagger-full-2018-10-16/
