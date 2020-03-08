@@ -1,5 +1,13 @@
 .vscode
 .DS_Store
-.ipynb_checkpoints/
-venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# stanford POS tagger
 stanford-postagger-full-2018-10-16/
