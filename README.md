@@ -4,5 +4,5 @@ This repo is for categorizing comments on a youtube video into different categor
   - Imperative (Suggestions, ....) 
   - Interrogative
   - Positive Feedback
-  - Neagtive Feedback
+  - Negative Feedback
   - .....
