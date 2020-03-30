@@ -42,15 +42,15 @@ def get_authenticated_service():
     return build(API_SERVICE_NAME, API_VERSION, credentials = credentials)
 
 def get_video_comments(service, **kwargs):
-    comments = []
+    
     results = service.commentThreads().list(**kwargs).execute()
 
     while results:
 
         for item in results['items']:
-            comment = item['snippet']['topLevelComment']['snippet']['textDisplay']+'\n'
-            comments.append([comment])   
-            with open('comments.csv','a') as f:
+            comment = item['snippet']['topLevelComment']['snippet']['textDisplay']+"\n"
+            comment.rstrip("\n")
+            with open('comments_2.csv','a') as f:
                 file=csv.writer(f)
                 file.writerow([comment])
         if 'nextPageToken' in results:
@@ -59,17 +59,9 @@ def get_video_comments(service, **kwargs):
         else:
             break
 
-    return comments
-
-def search_video_by_video_id(service, **kwargs):
-    final_result = []
-    video_id = "aZjYr87r1b8"
-    comments = get_video_comments(service, part='snippet', videoId=video_id, textFormat='plainText')
-    
-    final_result.extend([(video_id, comment) for comment in comments])
-        
 if __name__ == '__main__':
-    with open('comments.csv','a'):
+    with open('comments_2.csv','w'):
         pass 
     service = get_authenticated_service()
-    search_video_by_video_id(service, part='id,snippet', eventType='completed', type='video')
+    video_id = "xvqsFTUsOmc"
+    get_video_comments(service, part='snippet', videoId=video_id, textFormat='plainText')
