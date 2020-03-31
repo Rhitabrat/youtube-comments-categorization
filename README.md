@@ -14,6 +14,6 @@ This repo is for categorizing comments on a youtube video into different categor
 
 ## Instructions
   - setup virtual env
-  - install the required libraries using "requirements.txt" file. (pip install requirements.txt)
+  - install the required libraries using "requirements.txt" file. (pip install -r requirements.txt)
   - run this file "test.ipynb".
   - "main.ipynb" is the main file but it is little messy. However, you can have a look at it.
