@@ -6,7 +6,7 @@
 "Another great explanation by Abdul sir. Thank you so much.",positive
 "do I have to take notes or just see these videos which are helpful",question
 "I had no idea what was going on in the first one, but this one cleared everything up!",positive
-"Just one suggestion: if possible can you provide a link to github links to implementation of your videos as well ? I've tried to watch your videos and implement them in Java but every time I mess up and want to cross-check my implementation, there is no reference code. It would help a lot if you can post a links to implementation of your algorithms :) Thank you",suggestion
+"Just one suggestion: if possible can you provide a link to github links to implementation of your videos as well ? I've tried to watch your videos and implement them in Java but every time I mess up and want to cross-check my implementation, there is no reference code. It would help a lot if you can post a links to implementation of your algorithms :) Thank you",question
 "Thankkk youuuuu soooo sooo much sir",positive
 "you are a absolute genius. Extremely helpful for understanding the content. Much better than most of the professors in my university. Thank you so much. BTW, can you probably publish more videos about DP for how to create the DP formula? I am having problems on different kind of DP problem formula creating. And would you publish more videos about NP and NP complete? I watched the video you did for NP and NP complete problem but it did not talk about how to prove a problem is NP complete in detail such as how to use reduction to prove it?",question
 "great job!!!!",positive
@@ -142,7 +142,7 @@
 "THANK YOU SIR  sir for caring about us students and taking time to make a new video explaining previous unexplained things about certain topics. your approach is genuinely amazing  and very friendly towards beginners and that's something. Teaching complex topics in simple understandable way  is only what great teacher can achieve and you have achieved that your teaching  will be remembered by lots of students for times to come.",positive
 "Assalamualaikum teacher, May Allah give you a great reward for the knowledge that you teach, Aamiiiin :) Teacher I want to learn Parallel Programming and System Programming using C/C++ from you on udemy, please 😇😇 hehe",suggestion
 "There is a paid data structures and algorithms course of yours in Udemy, but you have uploaded all those videos in algorithm section in YouTube. Then what is the use of buying that Udemy course? Are you cheating your students? Please answer me....",negative
-"Randomized Algorithms needed Sir thank you so much for your videos.... They have helped us a lot. May you plz make videos on Randomized QuickSort and Hiring problems too",suggestion
+"Randomized Algorithms needed Sir thank you so much for your videos.... They have helped us a lot. May you plz make videos on Randomized QuickSort and Hiring problems too",question
 "Mr. Bari, these videos are excellent. Your explanations are always clear and to the point.",positive
 "Sir I am not able to buy ur udemy course using Indian Debit card..What to do??",question
 "❤🙏",positive
@@ -173,16 +173,16 @@
 "Thank you sir for making this video,on Tuesday my DAA  paper is there🙏🏻",positive
 "Thank you, thank you , thank you... Its my birthday today... n  dis video feels like a gift . Best teacher for algo.",positive
 "Sir ap new subject k upr kb video bnaygee plz sir btayeye",question
-"Sir, could you start teaching python programming. It would really help",suggestion
+"Sir, could you start teaching python programming. It would really help",question
 "thank you very much sir for this video",positive
 "Your videos not only teach but also inspire. They create a feeling that Algorithms can be conquered.",positive
 "Sir, It doesn't change the resultant table so it doesn't matter in the long term, however at 45:18 : 36 + 3 x 2 x 5 = 66*",question
-"Sir, when will u come with machine learning algorithms.??? Plzzzzzzz prepare machine learning videos",suggestion
+"Sir, when will u come with machine learning algorithms.??? Plzzzzzzz prepare machine learning videos",question
 """This you take 3 then you can dance"" - Abdul Bari 🕺🏻",other
 "Sir welcome back ... I am expecting your new videos on data structure",suggestion
 "I love you Sir🔥 Please make videos on System Designs",suggestion
 "love u sir... the exact topic  which I was searching .. thank you so much :)",positive
-"Sir can you uplode  video on 15 puzzle problem plzzz",suggestion
+"Sir can you uplode  video on 15 puzzle problem plzzz",question
 "Sir I wanna be like you... I wanna know every thing you know... Where and How do u learn all these things so perfectly? PS: I'm really curious here",question
 "Please do course for DBMS as well",suggestion
 "Legend is back again....",positive
@@ -223,7 +223,7 @@
 "Thank you sir for all videos on DAA",positive
 "Advance part of algorithms",other
 "Got an exam tomorrow and here I am watching this ..Thank you so much sir <3",positive
-"Sir can you please explain graph matching and edmond's blossom algorithm to compute augmenting path! please .......",suggestion
+"Sir can you please explain graph matching and edmond's blossom algorithm to compute augmenting path! please .......",question
 "Thank you, you are my savior! :)",positive
 "Great explanation..",positive
 "isn't null check also a comparison  for square nodes.",question
@@ -236,7 +236,7 @@
 "sir please continue java series we all are eagerly waiting",suggestion
 "Sir .Thank u very much for all videos on DAA....V all gave the best in our exams just because of ur videos....the way u thought is just perfect and very effective to us sir...Once again thank you  very much sir.. Looking further for many videos ....",positive
 "Assalamualaikum sir G, have a course on ""Automata"". Watching from Kashmir University.",question
-"Can you please upload a video of bipartite graph and augmentation concepts!",suggestion
+"Can you please upload a video of bipartite graph and augmentation concepts!",question
 "Sir please continue on your java series plz sir , you're seriously the best teacher . Keep up the good work",suggestion
 "sir your explain the things in a very easy way thats why i bought courses from udemy sir plz make more courses on computer networks or competative programming etc",suggestion
 "Sir plzzzzzzzzzzzzzzz make videos on automata computation .. theory of computation and automata ... Plzzzzzzzzzzzzzzz sir ... Ur way of learning is great .. thank you sir",suggestion
@@ -261,7 +261,7 @@
 "May Allah gives you the best. The way your explain is much better than a professor who is graduated form Ivy League universities . I bought his course in udmy  and the materials became easy.",positive
 "Very helpful. I had to create a vision check system on a 2D grid on a game I was working on, based on this algorithm. First I tried with wikipedia, and found out that the pseudocode there is incorrect. This video helped me to understand how the algorithm works. Once I found out is was trivial to tweak it for all 4 octants. Thank you very much.",positive
 "Sir you are telling there is no Gap in real life and theoritical main gap hai how?",question
-"Please can you upload a lecture for midpoint circle and elipse algorithm in Graphics",suggestion
+"Please can you upload a lecture for midpoint circle and elipse algorithm in Graphics",question
 "on 35:56.this is a error right? its always P=2dy-dx",correction
 "People like you are blessed with a beautiful skill, ""Teaching"". Thanks for being such a good teacher to all of us.",positive
 "Sir your lectures are too good.. Thank you sir",positive
@@ -319,7 +319,7 @@
 "just start from 11.30",other
 "I Just started loving you sir..... Too good... MashaAllah Sir MashaAllah Loveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee Youuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu Sirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",positive
 "Well done sir",positive
-"sir sorry apne yeh galat kraya jbb hmme Pnext kbhi pta hi hai toh compare kese kra aapko vaha sirf pk likhna tha as voh khud xk+1 and yk+1 ke baare btata hai next likh kr aapne ques gdbdh kr dya",suggestion
+"sir sorry apne yeh galat kraya jbb hmme Pnext kbhi pta hi hai toh compare kese kra aapko vaha sirf pk likhna tha as voh khud xk+1 and yk+1 ke baare btata hai next likh kr aapne ques gdbdh kr dya",other
 "God.",positive
 "Adorable videos..indeed..👌👌 Plz upload more videos on computer graphics",suggestion
 "sir,plz bring up more videos on computer graphics...its really a need!",suggestion
@@ -374,13 +374,13 @@
 "Air kindly upload breshems circle drawing algorithm",suggestion
 "Very good explaintion, sir thanks u for video",positive
 "Sir what for the condition if x1>=x2",question
-"Sir can uh please upload a video for Bresenham's circle algorithm",suggestion
+"Sir can uh please upload a video for Bresenham's circle algorithm",question
 "Sir at 35.56 the value of P1 should be 2*dy - dx ! You have written 2*dx - dy",correction
 "You are always best in any case...",positive
 "At 35:56, P should be P=2*dy-dx instead P=2*dx-dy...",correction
 "Sir ji Thankyou Thankyou bahut sara....",positive
 "bhagwan ho tummm",positive
-"Hmra monday ki paper hai sr cmputr graphics ka plz mid circle point algo and elips algo videos upload kr den jald",suggestion
+"Hmra monday ki paper hai sr cmputr graphics ka plz mid circle point algo and elips algo videos upload kr den jald",other
 "Aploads plz mid circle point algo and elips algo plzzz",suggestion
 "But this will work for only those lines whose slope is less than 1, right?",question
 "*Thank you so much...now i clearly understood about Bresenham's Algo.* 👍😍",positive
@@ -390,7 +390,6 @@
 "Great job sir👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏",positive
 "Thanxxx a lot sir g👌👌🙏🙏",positive
 "sir their is confusion in decision variabe p ,its initial meaning and also its next  please  describe it",question
-"Sir circle or eclipse algorithm bhi bta dijiye. Thank you",suggestion
 "Moj aa gyi😇",positive
 "sir at 36:06 isn't it p=2dy-dx. You have written p=2dx-dy. Great vedio sir keep it up.",correction
 "Great..great...great....simple and amazing explaination....i did not get bored even 1 sec.....superbbb.",positive
@@ -473,7 +472,7 @@
 "sirji aap heera ho",positive
 "thx I think that was the best and clearest explanation.",positive
 "Brilliant",positive
-"Very nicely explained, but I couldnt get the complete step by step algorithm or pseudo code",suggestion
+"Very nicely explained, but I couldnt get the complete step by step algorithm or pseudo code",negative
 "Wonderful explanation.Thank you sir",positive
 "Join My C++ course on Udemy.com Price: $10.99 (₹750) URL : https://www.udemy.com/cpp-deep-dive/?couponCode=LEARNCPP Course covers All the topics from Basics to Advance level. Every topic is covered in greater detail with suitable examples. Suitable for Academics and Industry",other
 "Explained well 👏",positive
@@ -617,7 +616,7 @@
 "Amazing explanation sir :)",positive
 "Good explanations",positive
 "thank you sir...its very helpful to me ..",positive
-"Can explian deletion method",suggestion
+"Can explian deletion method",question
 "Tq sir",positive
 "Does input sequence matters while calculating B tree ?",positive
 "Thanks that was helpful My professor spent 2 weeks to explain this and you just spent 8 minutes to finish this thank you again",positive
@@ -668,7 +667,7 @@
 "I did not understand a thing.",negative
 "Very bad explanation. Simply reading from the board and no explanation. We can also read. No use",negative
 "very bad explanation",negative
-"PLs explain more about overflow, we are unable to understand about.. Whats the use of workflow",suggestion
+"PLs explain more about overflow, we are unable to understand about.. Whats the use of workflow",question
 "hahaADAD im rying",other
 "Bo*** for noobs.",other
 "What the f*** is *VOLEWS* ?😑😑😑 I've been a programmer for 9 years! Never heard of *VOLEWS* !!",negative
@@ -776,11 +775,11 @@
 "I am guessing Tabulation will reduce some amount of time but ultimately we are having to consider all possible routes from all possible vertices. Thus O(n!) correct?",question
 "sir LCS problems I think u forget??",suggestion
 "Sir when we will get the full video course of java??",question
-"i think it should be O((n-m+1)m)?? ... at :11:30 of the video",suggestion
+"i think it should be O((n-m+1)m)?? ... at :11:30 of the video",correction
 "Can you be my professor? plz??",question
 "sir what is the time complexity of the recursion ??",question
 "What is String editing problem??",question
-"Why the cost of 1-5 is 11 as there is no direct path from 1 to 5 ??? It should be infinity",suggestion
+"Why the cost of 1-5 is 11 as there is no direct path from 1 to 5 ??? It should be infinity",correction
 "but 2 and 5 are not connected?? how are we visiting 5 from 2",question
 "Any srmites here??",question
 "Sir ,r u teaching data structures algorithm??",question
@@ -849,10 +848,10 @@
 "Please update the Java playlist.",suggestion
 "sir please continue this course",suggestion
 "sir, please start new videos explaining how to start coding in java",suggestion
-"Hiii sir can you please make video on function how we can write and use all of it",suggestion
+"Hiii sir can you please make video on function how we can write and use all of it",question
 "Sir plz complete the full java series it's a request",suggestion
 "Sir please upload more videos on java ..",suggestion
-"Sir, can you please do more videos on java",suggestion
+"Sir, can you please do more videos on java",question
 "sir..please upload remaining concept of java..as soon as possible.. it's request sir.. plzzzzzzz",suggestion
 "Sir please upload more videos",suggestion
 "Sir please upload more videos on java",suggestion
@@ -862,13 +861,13 @@
 "Great video Sir!!But Please provide implementation of the algorithm at the end of the  video",suggestion
 "Please add a video for naive string matching algorithm also.",suggestion
 "Bro plz I need maximum sub array problem",suggestion
-"sir can you plz explain printing the longest increasing subsequence using dynamic programming",suggestion
+"sir can you plz explain printing the longest increasing subsequence using dynamic programming",question
 "Sir plz make the video on booths algorithm very imp....sirrrr",suggestion
 "sir plzz make a video on SHORTEST UNCOMMON SUBSEQUENCE using dp.",suggestion
 "Sir plz upload other subjects also which u teach sir..would be helpful of you can provide patreon link means many students like me can donate money also sir...",suggestion
 "Sir plz make videos on horspool and boyer moore plz sir..ASAP",suggestion
 "Sir can u plz upload the video for query optimization in dbms including the algorithms for relational algebra operations, heuristics based query optimization and cost based query optimization.  Plz..",question
-"Sir discrete bhi pada do....plz",suggestion
+"Sir discrete bhi pada do....plz",other
 "Edge(4,3) and (4,5) is wrong",correction
 "in [4,3]  position you have written the wrong thing you write infinity but actually there comes 0",correction
 "First of all thank you Sir for this superb , understandable concept😊 sir... i have a problem! Sir , i solved for cost(7), which is 38 but your is 50. Is i'm wrong or there's a mistake in writing?☺ plz help. @Abdul_Bari",correction
