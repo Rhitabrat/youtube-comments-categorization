@@ -63,5 +63,5 @@ if __name__ == '__main__':
     with open('comments_2.csv','w'):
         pass 
     service = get_authenticated_service()
-    video_id = "xvqsFTUsOmc"
+    video_id = "sB7YGSbAIvQ"
     get_video_comments(service, part='snippet', videoId=video_id, textFormat='plainText')
