@@ -3,17 +3,17 @@
 This repo is for categorizing comments on a youtube video into different categories.
   - negative (grievances, complaints, ...)
   - positive (appreciation, ..)
-  - suggestion (requests,...)
-  - question (doubts)
+  - imperative (requests, suggestions, commands, ...)
+  - question (wh, yrs/no, with question marks)
   - correction
   - others
 
 ## Requirments
   - Jupyter notebook
-  - google account
+  - google account (onyl if you use scraping tool)
 
 ## Instructions
   - setup virtual env
   - install the required libraries using "requirements.txt" file. (pip install -r requirements.txt)
-  - run this file "test.ipynb".
-  - "main.ipynb" is the main file but it is little messy. However, you can have a look at it.
+  - run the required file.
+  - "main.ipynb" is the main file where new concept is implemented
