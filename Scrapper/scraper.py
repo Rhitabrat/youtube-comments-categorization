@@ -50,7 +50,7 @@ def get_video_comments(service, **kwargs):
         for item in results['items']:
             comment = item['snippet']['topLevelComment']['snippet']['textDisplay']+"\n"
             comment.rstrip("\n")
-            with open('comments_2.csv','a') as f:
+            with open('comments.csv','a') as f:
                 file=csv.writer(f)
                 file.writerow([comment])
         if 'nextPageToken' in results:
@@ -60,8 +60,8 @@ def get_video_comments(service, **kwargs):
             break
 
 if __name__ == '__main__':
-    with open('comments_2.csv','w'):
+    with open('comments.csv','w'):
         pass 
     service = get_authenticated_service()
-    video_id = "sB7YGSbAIvQ"
+    video_id = "r59xYe3Vyks"
     get_video_comments(service, part='snippet', videoId=video_id, textFormat='plainText')
