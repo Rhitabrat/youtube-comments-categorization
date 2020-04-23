@@ -44,7 +44,7 @@ oauthlib==3.1.0
 pandas==1.0.1
 pandocfilters==1.4.2
 parso==0.6.2
-Pattern==2.6
+Pattern
 pexpect==4.8.0
 pickleshare==0.7.5
 ply==3.11
