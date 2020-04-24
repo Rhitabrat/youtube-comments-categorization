@@ -4,7 +4,7 @@ This repo is for categorizing comments on a youtube video into different categor
   - negative (grievances, complaints, ...)
   - positive (appreciation, ..)
   - imperative (requests, suggestions, commands, ...)
-  - question (wh, yrs/no, with question marks)
+  - interrogative (wh, yrs/no)
   - correction
   - others
 
@@ -15,5 +15,4 @@ This repo is for categorizing comments on a youtube video into different categor
 ## Instructions
   - setup virtual env
   - install the required libraries using "requirements.txt" file. (pip install -r requirements.txt)
-  - run the required file.
-  - "main.ipynb" is the main file where new concept is implemented
+  - "main.ipynb" is the main file where the new concept is implemented
