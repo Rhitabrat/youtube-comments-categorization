@@ -5,7 +5,7 @@ This repo is for categorizing comments on a youtube video into different categor
   - positive (appreciation, ..)
   - imperative (requests, suggestions, commands, ...)
   - interrogative (wh, yrs/no)
-  - correction
+  - corrective
   - others
 
 ## Requirments
