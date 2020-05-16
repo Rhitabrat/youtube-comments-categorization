@@ -43,7 +43,7 @@
 "love your explanation Sir",positive
 "May I go to the washroom .. please",interrogative
 "Lacoste !",other
-"that will be 66 not 86",correction
+"that will be 66 not 86",corrective
 "Very nice explanation sir..after watching this i got interested in enroll your cource in Udemy.",positive
 "You are the king Sir",positive
 "What if value of k table at (1,4) is 2 then  after 2 we put parentize so (A1. A2)*( A3. A4) was the final answer?",interrogative
@@ -55,7 +55,7 @@
 "Please consider making your previous video private or unlist it. @Abdul Bari",imperative
 "The best teacher one could ask for!!!! Loved your videos",positive
 "operating system computer network computer organization plz create videos",imperative
-"at time 47:13 sir, the sum for k=1 is 66 not 86 sir",correction
+"at time 47:13 sir, the sum for k=1 is 66 not 86 sir",corrective
 "Just wanted to add my praise for this video. Excellent teaching Abdul!",positive
 "Thank you so much",positive
 "Really fantastic. Thank you alot.",positive
@@ -114,11 +114,11 @@
 "When will you going to release java course sir...",interrogative
 "Sir ,I bought ur C++ course yesterday ,may I know for how many days I can access it or unlimited ?",interrogative
 "sir from where you are?",interrogative
-"More clearer this time sir, Thank you! 36 + 3 * 2 * 5  must be 66 not 86 though :D",correction
+"More clearer this time sir, Thank you! 36 + 3 * 2 * 5  must be 66 not 86 though :D",corrective
 "Here's the implementation in java. https://gist.github.com/RitamChakraborty/da1b8ab58ee0109116dfc2ac7e9c1a27",other
 "Sir, Please add sections like Dynamic Programming and other important topics to your data structures udemy course.",imperative
 "Amazing Sir, thank you very much for making these free videos .",positive
-"nice video btw thats not associative property its distributive",correction
+"nice video btw thats not associative property its distributive",corrective
 "https://www.youtube.com/watch?v=eSdcg4kKatc",other
 "(: Just two?",interrogative
 "Hi abdul sir , please make a whatsapp group where all students can disscus their Problems . It will help all students alot.",imperative
@@ -198,8 +198,8 @@
 "Sir you can spend all your life from the blessings and appreciations of the fellow students around the world.",positive
 "absolute madlad",other
 "How many engineers out here, give a like.",other
-"Thanks sir. I had two questions 1. c[0,0] should equal to w[0,0] because of the formula ""c[i,j] = w[i,j] + mini<k≤j(c[i,k-1] + c[k,j])"". 2. FOR EXAMPLE:  if the cost of c[1,1] and c[2,3] is minimum for k=2 and k=3. which k we should choose?? please guide me.",correction
-"Sir, when we are calculating C[i,j] for i=j, why you took it as 0 instead of w[i,j]. I know there wont be any ""K"" to get minimum of C but shouldn't w[i,j] be left as final value? Am i missing something?",correction
+"Thanks sir. I had two questions 1. c[0,0] should equal to w[0,0] because of the formula ""c[i,j] = w[i,j] + mini<k≤j(c[i,k-1] + c[k,j])"". 2. FOR EXAMPLE:  if the cost of c[1,1] and c[2,3] is minimum for k=2 and k=3. which k we should choose?? please guide me.",corrective
+"Sir, when we are calculating C[i,j] for i=j, why you took it as 0 instead of w[i,j]. I know there wont be any ""K"" to get minimum of C but shouldn't w[i,j] be left as final value? Am i missing something?",corrective
 "sir what about the program?",interrogative
 "Amazing! Thank you!",positive
 "Amazing explanation sir..... Thank you very much...........",positive
@@ -258,7 +258,7 @@
 "Very helpful. I had to create a vision check system on a 2D grid on a game I was working on, based on this algorithm. First I tried with wikipedia, and found out that the pseudocode there is incorrect. This video helped me to understand how the algorithm works. Once I found out is was trivial to tweak it for all 4 octants. Thank you very much.",positive
 "Sir you are telling there is no Gap in real life and theoritical main gap hai how?",interrogative
 "Please can you upload a lecture for midpoint circle and elipse algorithm in Graphics",interrogative
-"on 35:56.this is a error right? its always P=2dy-dx",correction
+"on 35:56.this is a error right? its always P=2dy-dx",corrective
 "People like you are blessed with a beautiful skill, ""Teaching"". Thanks for being such a good teacher to all of us.",positive
 "Sir your lectures are too good.. Thank you sir",positive
 "Best explanation of Bresenham's algorithm I have ever heard.",positive
@@ -290,7 +290,7 @@
 "Sir pls make lecture course in python also",imperative
 "what is c in d1 formula",interrogative
 "Take 2-3 examples when I teach 😊 thq",imperative
-"In the algorithm, the initial value of p is computed erroneously, it should be 2dy-dx. Nonetheless, thank you for the great video!",correction
+"In the algorithm, the initial value of p is computed erroneously, it should be 2dy-dx. Nonetheless, thank you for the great video!",corrective
 "really nice explanation",positive
 "as we can show on 37:39 that tou use in red color marker (D=delta)    p=2Dy-Dx  but in algo you use p=2dx-dy   but as i  know dx=x2-x1      while Dy=y2-y1",interrogative
 "can anyone explain to me why we did subtract pk from pnext (pknest - pk) I mean what it refers to ?",interrogative
@@ -299,13 +299,13 @@
 "Sir what happen when x is not less than  X2",interrogative
 "sir why don't u come to our clg sir. u r jst grt",positive
 "Hey, i am studying Virtual Reality and you helped me with graphics do much.. thanks ❤",positive
-"his pseudocode is wrong somehow.. try (0,0) (4,2)",correction
+"his pseudocode is wrong somehow.. try (0,0) (4,2)",corrective
 "Sir also explain about DAA paper in MCA syllabus😢😢",imperative
 "Thank you sir it is very useful😳😇and it's very helpful for my exams thank u so much sir",positive
 "Pls sir make video on bresenhms circle draw algo pls...",imperative
 "Can you explain the mid point circle concept in computer graphics ?",interrogative
 "sir ak video bresenham’s circle drawing algorithm bna dijiye",imperative
-"on 35:56 =>  P=2dy-dx  not p=2dx-dy",correction
+"on 35:56 =>  P=2dy-dx  not p=2dx-dy",corrective
 "Please make a video about midpoint circle algorithm and bresenhams circle algorithm",imperative
 "sir you are really great especially your way of explanation  i haven't seen anyone like you on youtube",positive
 "it is really not possible to get that on P_next - P_k < , >= 0 we are analyzing the conditions then how come that instead we have the conditions for P_k >,< 0",interrogative
@@ -319,7 +319,7 @@
 "God.",positive
 "Adorable videos..indeed..👌👌 Plz upload more videos on computer graphics",imperative
 "sir,plz bring up more videos on computer graphics...its really a need!",imperative
-"sir here should be 2dy-dx instead of 2dx-dy",correction
+"sir here should be 2dy-dx instead of 2dx-dy",corrective
 "Nice explanation...  examples are explained very easily and carefully...",positive
 "Super Ji",positive
 "thank you sir helped alot.....",positive
@@ -345,16 +345,16 @@
 "Awesome, Thank you so much ! <3",positive
 "Thanks sir",positive
 "Who knew Dave from AT&T customer service was such an Algorithm wizard?",other
-"sir you did a mistakes from 36:00 ...check it...m i r8 or not..",correction
+"sir you did a mistakes from 36:00 ...check it...m i r8 or not..",corrective
 "explain there are a point when we use bresenham algorithm it don't finished the whole point to end point like  [ ( 2 ,2) -- (5 ,10 ) ] etc ....",imperative
 "Sir Please Made Videos On C Programming",imperative
 "Thanku so much sir....u have explained it very well....thanx alot",positive
-"I am sorry on 35:56 ... P=2dy-dx.... not p=2dx-dy  .... This lecturer is greater than attending my normal class. Thank you... Also you are my great lecturer of Analysis of Algorithm. I have knowm TIME COMPLEXITY because of you only... THANK YOU!!",correction
+"I am sorry on 35:56 ... P=2dy-dx.... not p=2dx-dy  .... This lecturer is greater than attending my normal class. Thank you... Also you are my great lecturer of Analysis of Algorithm. I have knowm TIME COMPLEXITY because of you only... THANK YOU!!",corrective
 "excellent sir",positive
 "best lecture i have ever seen",positive
-"💥 ""P= 2dy-dx"" 💥  please correct that",correction
+"💥 ""P= 2dy-dx"" 💥  please correct that",corrective
 "will it be same in case of m>1 ?",interrogative
-"Sir there is a slight mistake the decision parameter in algorithm is P=2dy - dx;",correction
+"Sir there is a slight mistake the decision parameter in algorithm is P=2dy - dx;",corrective
 "no matter whose 9 dislikers are .....",positive
 "Thank you sir",positive
 "Thank you so much",positive
@@ -371,9 +371,9 @@
 "Very good explaintion, sir thanks u for video",positive
 "Sir what for the condition if x1>=x2",interrogative
 "Sir can uh please upload a video for Bresenham's circle algorithm",interrogative
-"Sir at 35.56 the value of P1 should be 2*dy - dx ! You have written 2*dx - dy",correction
+"Sir at 35.56 the value of P1 should be 2*dy - dx ! You have written 2*dx - dy",corrective
 "You are always best in any case...",positive
-"At 35:56, P should be P=2*dy-dx instead P=2*dx-dy...",correction
+"At 35:56, P should be P=2*dy-dx instead P=2*dx-dy...",corrective
 "Sir ji Thankyou Thankyou bahut sara....",positive
 "bhagwan ho tummm",positive
 "Hmra monday ki paper hai sr cmputr graphics ka plz mid circle point algo and elips algo videos upload kr den jald",other
@@ -387,7 +387,7 @@
 "Thanxxx a lot sir g👌👌🙏🙏",positive
 "sir their is confusion in decision variabe p ,its initial meaning and also its next  please  describe it",interrogative
 "Moj aa gyi😇",positive
-"sir at 36:06 isn't it p=2dy-dx. You have written p=2dx-dy. Great vedio sir keep it up.",correction
+"sir at 36:06 isn't it p=2dy-dx. You have written p=2dx-dy. Great vedio sir keep it up.",corrective
 "Great..great...great....simple and amazing explaination....i did not get bored even 1 sec.....superbbb.",positive
 "Sir plz upload a video giving explanation for AI Algorithms..",imperative
 "Example at 38:00",other
@@ -770,11 +770,11 @@
 "I am guessing Tabulation will reduce some amount of time but ultimately we are having to consider all possible routes from all possible vertices. Thus O(n!) correct?",interrogative
 "sir LCS problems I think u forget??",imperative
 "Sir when we will get the full video course of java??",interrogative
-"i think it should be O((n-m+1)m)?? ... at :11:30 of the video",correction
+"i think it should be O((n-m+1)m)?? ... at :11:30 of the video",corrective
 "Can you be my professor? plz??",interrogative
 "sir what is the time complexity of the recursion ??",interrogative
 "What is String editing problem??",interrogative
-"Why the cost of 1-5 is 11 as there is no direct path from 1 to 5 ??? It should be infinity",correction
+"Why the cost of 1-5 is 11 as there is no direct path from 1 to 5 ??? It should be infinity",corrective
 "but 2 and 5 are not connected?? how are we visiting 5 from 2",interrogative
 "Any srmites here??",interrogative
 "Sir ,r u teaching data structures algorithm??",interrogative
@@ -863,15 +863,15 @@
 "Sir plz make videos on horspool and boyer moore plz sir..ASAP",imperative
 "Sir can u plz upload the video for query optimization in dbms including the algorithms for relational algebra operations, heuristics based query optimization and cost based query optimization.  Plz..",interrogative
 "Sir discrete bhi pada do....plz",other
-"Edge(4,3) and (4,5) is wrong",correction
-"in [4,3]  position you have written the wrong thing you write infinity but actually there comes 0",correction
-"First of all thank you Sir for this superb , understandable concept😊 sir... i have a problem! Sir , i solved for cost(7), which is 38 but your is 50. Is i'm wrong or there's a mistake in writing?☺ plz help. @Abdul_Bari",correction
-"The value of node 8 is 27 which is less than node 6.. So your whole tree after that is wrong..",correction
-"7 th node matrix that u explain is may be wrong Iam getting another values",correction
-"I got  wrong at  reduce 7th matrix Nd 10 matrix can u please  tell Ans for me are 38 Nd 25",correction
-"your solutions is wrong. 4+5=9 at 17:00 and how is cost of 5th vertex 31 , shouldn't it be 26 C(1,5)+r=1+25=26",correction
+"Edge(4,3) and (4,5) is wrong",corrective
+"in [4,3]  position you have written the wrong thing you write infinity but actually there comes 0",corrective
+"First of all thank you Sir for this superb , understandable concept😊 sir... i have a problem! Sir , i solved for cost(7), which is 38 but your is 50. Is i'm wrong or there's a mistake in writing?☺ plz help. @Abdul_Bari",corrective
+"The value of node 8 is 27 which is less than node 6.. So your whole tree after that is wrong..",corrective
+"7 th node matrix that u explain is may be wrong Iam getting another values",corrective
+"I got  wrong at  reduce 7th matrix Nd 10 matrix can u please  tell Ans for me are 38 Nd 25",corrective
+"your solutions is wrong. 4+5=9 at 17:00 and how is cost of 5th vertex 31 , shouldn't it be 26 C(1,5)+r=1+25=26",corrective
 "What if a problem have same cost",interrogative
-"Time complexity for pure recursion should be pow(2, m+n). Correct me if I am wrong",correction
+"Time complexity for pure recursion should be pow(2, m+n). Correct me if I am wrong",corrective
 "Although the explanation was good, but everything become irrelevant when you don't tell how you derived the code (i.e What is the mathematical approach). Longest Common Subsequence - Dynamic Programming  : https://youtu.be/tYzNrCul5OU",imperative
 "please do upload  a video for transitive closure of a direct graph .thank you",imperative
 "Sir excellent way of explaination if possible please upload a video on rod cutting problem",imperative
@@ -887,12 +887,12 @@
 "Question: I got the point that on finding slope we get whether < or > 1? but why are we calculating the slope, as we only need to trace the line.",interrogative
 "Im not sure. But in CG, when you get pixel coordiantes of point-something usually you floor. So why is it being rounded here? pixel 4.8 is technically still pixel 4 and not 5",interrogative
 "Why we have taken (0.648,100) in S3 set as we can nt take any other device if we take cost 100",interrogative
-"I believe it should be (0.648, 100), (0.63, 105), but not the other order.  You need to take (0.648, 100) first because it came in earlier.  And the reason (0.63, 105) is eliminated is just because it has a lower reliability.  Other than this tiny detail, these are very good videos.",correction
-"Isn't it reduction to 2-SAT? 2-SAT should be a P problem, right?",correction
-"I think this video is bad situated in the playlist. It should be located in graphs session but instead it is locate before Divide and Conquer video.",correction
-"I think that the height of the tree should be written as identifier and not the total number of nodes, because you want the parent of the bigger tree to become parent of the smaller tree. Lets say you have height 2 and height 3 trees, if you merge 3 into 2 you have new tree height 4, if you merge 2 into 3 the height of the new tree stays 3.",correction
-"If in the source matrix, position [3,1]  value  we change it as value '0'. Then  what should be the  Path?",correction
-"Sir! With due respect there is a problem in algorithm. A/c to ur algo, it will not put pixel for last point.After the loop put pixel should be called one more time  : putpixel(x1,y1);",correction
+"I believe it should be (0.648, 100), (0.63, 105), but not the other order.  You need to take (0.648, 100) first because it came in earlier.  And the reason (0.63, 105) is eliminated is just because it has a lower reliability.  Other than this tiny detail, these are very good videos.",corrective
+"Isn't it reduction to 2-SAT? 2-SAT should be a P problem, right?",corrective
+"I think this video is bad situated in the playlist. It should be located in graphs session but instead it is locate before Divide and Conquer video.",corrective
+"I think that the height of the tree should be written as identifier and not the total number of nodes, because you want the parent of the bigger tree to become parent of the smaller tree. Lets say you have height 2 and height 3 trees, if you merge 3 into 2 you have new tree height 4, if you merge 2 into 3 the height of the new tree stays 3.",corrective
+"If in the source matrix, position [3,1]  value  we change it as value '0'. Then  what should be the  Path?",corrective
+"Sir! With due respect there is a problem in algorithm. A/c to ur algo, it will not put pixel for last point.After the loop put pixel should be called one more time  : putpixel(x1,y1);",corrective
 "Sir, is there a basis for comparison, performance-wise, between the Traveling Salesman Problem or 8 Queens Problem? I want to know if using Backtracking is better than Branch-&-Bound, or vice-versa. Does one approach lead to less number of computations? If so, by how much is the computation reduced? Or is it that in specific cases, like in 8 Queens Problem, it is better to use Backtracking, because it relates to a constraint, that no Queen should be able to kill the other, whereas in Traveling Salesman Problem, the main objective is to minimize the cost, under the given function, whereas there's no such cost function in the case of 8 Queens?",interrogative
 "Got a question on the topic? Please share it in the comment section below and our experts will answer it for you. Online NLP Certification Training: https://goo.gl/C1PW7d Call Edureka at US: +18336900808 (Toll-Free) or India: +918861301699 or, write back to us at sales@edureka.co",imperative
 "Great video",positive
@@ -900,12 +900,12 @@
 "Thanks",positive
 "it was much helpful,,,,tnku",positive
 "Hey there, just a bit of guidance to anyone who battled with this like I did.  I am using PyCharm and to get NLTK installed, I had to type into my project window  import nltk nltk.download() Once I executed this, I was given the options shown in the video above.",other
-"It is sentiment analysis, not sentimental :D",correction
-"At 14:50, it is not frequency distinct. It is frequency distribution.",correction
+"It is sentiment analysis, not sentimental :D",corrective
+"At 14:50, it is not frequency distinct. It is frequency distribution.",corrective
 "I have anaconda downloaded. Can someone guide me to download NLTK library?",interrogative
 "Fk...I live in Stone Age era....",other
 "Stupid content as usual, Totally waste of time, He never took real-life Text file to work with, Did not take a file which was a mixture of  String, Object or numerics. I can not understand How these people praising or liking the content What the hell did they learn, Just theory - Suck it",negative
-"fdist is not a function it is a list variable",correction
+"fdist is not a function it is a list variable",corrective
 "👏🏻👏🏻👏🏻",positive
 "Is it possible to build a nlp app for a foreign language other than English?",interrogative
 "Hi! how I apply the same (NLP processing) on corpora containing emojis in sentences.",interrogative
@@ -1031,7 +1031,7 @@
 "Thank you. Very informative session. :)",positive
 "This was super helpful. Thanks a lot! Learnt about markov chains, sentiment analysis and LDA so beautifully! Great great tutorial. Thanks a lot, again. God bless you. :)",positive
 "U made to understand easily sir please continue teaching",positive
-"sir but we can also write c programs in online i meaan in chrome by using online c compiler then programming language becomes web application",correction
+"sir but we can also write c programs in online i meaan in chrome by using online c compiler then programming language becomes web application",corrective
 "Tq so much sir . Ur explaining in a simple way .",positive
 "Super sir, keep teaching well",positive
 "Very useful",positive
@@ -1088,7 +1088,7 @@
 "Awesome",positive
 "Sir here I have doubt that we can also perform the c programming in online compiler in google so it a web app and standalone",other
 "Best teacher",positive
-"sir in last at 14:22 there is one mistake so may be someone confused  there saying we can not developed stand  alone application by using c and c++  but  before statement was different .",correction
+"sir in last at 14:22 there is one mistake so may be someone confused  there saying we can not developed stand  alone application by using c and c++  but  before statement was different .",corrective
 "so many ads very frustrating",negative
 "Nice sir",positive
 "SIR , I like ,subcribe  your channel ,but plzz these video was there in BCA SYLLABUS",positive
