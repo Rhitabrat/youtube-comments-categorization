@@ -61,7 +61,7 @@ def get_video_comments(service, **kwargs):
 
 if __name__ == '__main__':
     with open('comments.csv','w'):
-        pass 
+        pass
     service = get_authenticated_service()
-    video_id = "r59xYe3Vyks"
+    video_id = "_uQrJ0TkZlc"
     get_video_comments(service, part='snippet', videoId=video_id, textFormat='plainText')
