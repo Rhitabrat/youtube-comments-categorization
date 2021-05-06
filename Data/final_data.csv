@@ -3427,3 +3427,1104 @@
 "This is pure GOLD!!!!",positive
 "Very in depth and helpful for a ground up understanding of the entire subject. Problem is that right from the get-go, rank and shape functions both generate errors in colab. You might want to tell what changed, or what to expect when the example code is broken.  You're going to lose viewers if your set-up doesn't work.",corrective
 "Bro, your work is really awesome, please DO NOT STOP.",positive
+"Now I understand the difference between learning online and reading a book  , yes the video is great with few mistakes but I have to say first learn the basics  calculus , probability , ANN , perceptron and so on because with these you will write the code and get a solution but will can't get the optimal solution or will never understand what's happening . First learn all the basics and watch the video you will enjoy it...🙂",interrogative
+"It is giving me error when   def make_input_fn(data_df, label_df, num_epochs=10, shuffle=True, batch_size=32):     def input_function():           ds = tf.data.Dataset.from_tensor_slices((dict(data_df), label_df))           if shuffle:             ds = ds.shuffle(1000)  # randomize order of data             ds = ds.batch(batch_size=batch_size).repeat(num_epochs)           return ds       return input_function    linear_est = tf.estimator.LinearClassifier(feature_columns=feature_columns)   train_input_fn = make_input_fn(dftrain, y_train, batch_size=32)   eval_input_fn = make_input_fn(dfeval, y_eval, num_epochs=1, shuffle=False,batch_size=32)  linear_est.train(train_input_fn)   result = linear_est.evaluate(eval_input_fn)    clear_output()   print(result['accuracy'])    error says:- ValueError: Feature (key: age) cannot have rank 0. Give: Tensor(""linear/linear_model/Cast:0"", shape=(), dtype=float32)  please help me i am beginner",imperative
+"BINOD",miscellaneous
+"Very good course!",positive
+"Hi, I have an error of ""cannot import name 'Keras' on google colab. Any idea how I can solve this?Thanks",interrogative
+"Great,  thanks for your time 🙏",positive
+"700th Comment",miscellaneous
+"Great Video Tutorial. Learned a lot about Tensorflow 2.0. Your GC notebooks were very informative and the way you explained every topic was great. Hoping for more such videos about ML,AI and deep learning.",positive
+"While this material might teach someone the mechanics of using TF etc, the stats part is incorrect: you mention linear regression is for example fitting data to only a line: incorrect ! Fitting a high degree polynomial etc can also be a linear regression problem. Everyone wants to jump on the M/L bandwagon, please keep the math behind it either right or not address it at all.",corrective
+"He looks like a Jedi too me:)",miscellaneous
+"I didn't understand the CNN part especially pretrained models",negative
+"1:23:50",miscellaneous
+"8:52:08",miscellaneous
+"found it quite helpful thank you",positive
+"1:00:00 (ignore just a note)",miscellaneous
+"Please! Do a OpenCV Tutorial",imperative
+"Where's the ipython notebook or link to the code?",interrogative
+"3:42:15 i can't see the title(Expected label) and the guess(Predicted label). anybody else?..",interrogative
+"Oh, by the way to make colab run faster, if you have a good internet connection you can use Colab with TPU and not GPU",miscellaneous
+"Dude I appreciate all the hard work that went into this, you've done a good job. But I can't call it a great job, because every time you say 'I don't need to explain that' , or 'that's not something you need to worry about' , or the 10 other ways I've been listening to you say .. well .. what I'm hearing you say is that you either don't have the bandwidth or the capacity to go deeper. And you should. Every time you say something like that it cheapens the hard work that you've done, is how I think about it. My advice : find someone to help you out with this .. if you do another one. And every time you say it , it's just so distracting it takes away from what you have explained. A team effort will help in a myriad of ways .. is all I'm saying.",negative
+"48:59",miscellaneous
+"Great video, I just wonder with the Titanic example, if your model was: if female predict ""survive"" else predict ""not survive"" wouldn't it have like 78% accuracy?",interrogative
+"can the linear regression model used here, be used for predicting continuous values and not just probabilities ???",interrogative
+"Nice work and great course Tim Edit: Me literally dancing just because I got better accuracy at 1:46:47 XD",positive
+"I had to thank you. It's just how I was raised.     That was a little weird.     - I'm going out. - Out? Out where?     Yeah, right.     Pollen counting, stunt believed the humans, they won't be able     to say, ""Honey, I'm home,"" without paying a royalty!     He's nxetsire all the talk.     Alass, a bee decuse bee beaden?     I'm sorry.     It's my hure. Just inations.     But I don't remall to over?     Get dressed. I've gottang go to sme.     Let's over!     Even if it's true, what can one bee do?     Leysurt night...     My nerves are fried from riding on thise motelp as honey just step on the trial pollen Jock. You have to be bred for that.     Right.     Look. That's more pollen thanking befoke things.     It's not",miscellaneous
+"Say you want to make a 1 billion neurons network, would it be impossible? Or possible with the right computer? Or do you think the language would not keep up with that amount of processing?",interrogative
+"'parch' is the number of Parents/Children Aboard. (Par)ent of (Ch)ildren.",miscellaneous
+"what happened in 2:17:28 min. Was it a subliminal message or something?",interrogative
+"2:38:03 got earraped in my right ear :(",miscellaneous
+"2:17:26 looks like he just saw a ghost haha",miscellaneous
+"Great Tutorial! Just a heads up, there was a mistake at 3:35:00 - you forgot to reinitialize the ""model""!",positive
+"Man, how do you prepare yourself for those courses, it's some kind of next level of understanding the subject.",interrogative
+"Great Work Tim! Providing so much content for Free is so very kind of you!!",positive
+"Also add a video on visual studio(Xamarin)and Android studio",imperative
+"I'  m beginer , should I take this first ؟",interrogative
+"Just completed module 3 and now things are more clear to me .. thank you so much  🙏🏼",positive
+"🎂🎶🤳😎💋🐱‍👓🎂🐱‍👤💖😢👍🤞🐱‍👓🎉👀😃🤳✔😃✔🐱‍🚀🌹🐱‍🐉🎁🐱‍🐉👏🌹😎🐱‍👤🐱‍👤🐱‍👤🐱‍👤🎶(^///^)(^///^)^_^^_^^_^☆*: .｡. o(≧▽≦)o .｡.:*☆›»®»©",miscellaneous
+"People like you are gods to us plebs.",positive
+"1.75x 👌",miscellaneous
+"He's using Keras, not Tensorflow. Lol baited.",corrective
+"THANKS for the course! Wonderful! You are so nice! Just... please.... It's sePAL, not sePTAL",positive
+"tf.Session() has been removed in TF 2.0. Just a head up. ""AttributeError: module 'tensorflow' has no attribute 'Session'"" in Google Colab",corrective
+"I've been going back and forth between python to game development... but I haven't actually learned anything and now I'm here for machine learning, and before this I started hacking course. Everything unfinished, and just the thought of what I would be able to do when I get good at either of these is what makes me want to learn them, but I can't really stick to one.",negative
+"i have high regards for Tim, Titanic is a classification problem not regression. im sure even an intermediate level Machine Learning Programmer knows this that for specific number of outputs or discrete output (1 and 0 in this case) classification is used and regression is used for prediction for continuous variables  like to predict price of house. Tim didnt even mention the term classification and he even used LinearClassifier which is probably used for classification as name implies. really in doubt how an ML expert like Tim would forget such a fundamental thing .   That really sets bad intuition for beginners and they would get confused when they get to know what both of these terms actually mean.  thats enough to decide that this video is not a video to watch especially for beginners.  Tim is an awesome dude, i have learned a lot from him but this is just not the video i would recommend anyone to watch.  i hope Tim acknowledges this",corrective
+"I thought C/C++.",miscellaneous
+"I got ValueError: Feature (key: age) cannot have rank 0. Given: Tensor(""IteratorGetNext:1"", shape=(), dtype=string) in my local envrionment for LinearRegression any ideas? Thanks.",interrogative
+"fare is what they payed for the ticket",miscellaneous
+"The course is good but it miss one of the most important thing - Mathematics. It's better if you can show how to derive the backpropagation step by step, using library is easy, the Maths part is difficult for most software developers.",corrective
+"1:38:01",miscellaneous
+"Tim, these videos are great!",positive
+"The biggest problem with this tutorial is just the lack of explanation when introducing new functions and syntax like ""from_tensor_slices"" or ""categorical_column_with_vocabulary_list."" I understand you give a brief explanation of some but sometimes saying, ""I don't know how to explain it,"" really diminishes the value of the overall video. Nonetheless, tons of good info but it could be explained better.",corrective
+"can anyone please let me know will amd ryzen 7 4800h and 1660ti for basics of deep learning modules.",interrogative
+"He is really intimidating",negative
+"I have intermediate knowledge of python and want to develop my own ai virtual assistant so want to learn about machine learning algorithms and how to decide the right one and how to implement. Is this the right tutorial for it or do I need to try something at a more beginner level? Thanks",interrogative
+"it is __version__ not version 42:31",corrective
+"Are there any requirements to start this course?",interrogative
+"Thank you for this course i have been struggling to figure some concepts and i really needed this to start my Research",positive
+"OMG! Are you a cyborg ?:o",interrogative
+"Thanks, Anakin Skywalker",negative
+"does anyone suggest any good colab for classification of high dimensional tabular data set ?",interrogative
+"1:33:36",miscellaneous
+"If we study this tensor flow course we finished deeplearning course correct or not?",interrogative
+"1:02:44 ""Do not Memorize just Understand"" - made my mind to stay ""calm"". Felt to thank at that time frame... ""Thank You!",positive
+"Thanks a lot, this was very informative. Gave you a little tip with my hard earned BAT, haha",positive
+"Hi ,At 4:32:24, Tim said that the no of trainable parameters is zero because we get .trainable = False , but its value is already zero if you see the output before.Can someone explain this to me ?Thanks a lot in advance",interrogative
+"which app did you use for illustration? :)",interrogative
+"Thank you !",positive
+"THANK YOU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",positive
+"03:09:00 .If someone is confused how we can get better features at higher dimensions. I understood it in this way.Think that there is bad point in 2 dimensions (like in a square or a circle ) , now when we shift the same bad point to 3 dimensions or 4 dimensions .They take the shape of something like a cube or sphere which increases the size of the bad point. Similarly , when extracting features at higher dimensions can yield to better features. I hope it helps :)",miscellaneous
+"Great work explaining everything in detail.",positive
+"A huge thanks for not including any Ads, which often drift us away from the agenda. Also your teaching methodology is exceptionally good.This video is exactly what I was looking for. A huge thanks to freeCodeCamp and Tim for making my day and most of us, I guess.",positive
+"At 3:37:00, when you said with less epochs, you are getting better test results. Which is actually not the case. You first run for 10 epochs, your weights got updated. Then again you run 8 epochs, your weights improved from previous values onwards.. so that eventually makes 18 epochs.. then you run for 1 epoch, which makes it 19 epochs.. so in this case, after 19th epoch, your accuracy on test data is increased.",miscellaneous
+"In tensorflow 2.0, theres no more placeholder and sessions right? Is this really TF 2.0 based video? as I am more interested in 2.0..",interrogative
+"I will be using Jupyter Notebook to follow along; it has the required version of TensorFlow. Will that lead to any problems in the future?",interrogative
+"Tesla uses pytorch",miscellaneous
+"Thank you a lot!",positive
+"The best machine learning course on YT.🙌 Love it",positive
+"with tf.Session() as sees:    # create a session using the default graph tensor1.eval() Gives me following error in google colab:module 'tensorflow' has no attribute 'Session'.Can you please help me???????????????",interrogative
+"1:52:41 ignore lol",miscellaneous
+"Much needed...thanks a lot....and need one such course on keras too",positive
+"holy fuk ,6hour",negative
+"Just wanna thank you Tim and FreecodeCamp for these kind of amazing acts! ""Give a man a fish and you feed him for the day. Teach him how to fish and you feed him for life!"" lol or something like that and thats exactly what you guys are doing for people like me",positive
+"Someone please reply...why am i have different probabilities as output  if i am writing same syntax as Him and even we read same Csv file?",interrogative
+"People : netflix DARK is so confusing ML Algorithms : Hold my beer",miscellaneous
+"This is me when I come to work after a holiday 1:17:49",miscellaneous
+"Good work, I appreciate you trying to teach the masses. However, the first example is not linear regression, it is binomial logistic regression and doesn't really represent what you explain earlier in the first part of the video. Perhaps the housing price data set or another data set would be a good example for this, with binomial logistic regression as a second step that then leads into multinomial logistic regression.",corrective
+"Hello, I have a question. When I try to run the train and eval for the titanic survival rates, there is an error. It says “AttributeError: module ‘pandas’ has no attribute ‘read’. How do I solve this? The answers on stackoverflow have not been helpful to me.",interrogative
+"4:25:30 what is disable progress bar",interrogative
+"Great work mate.",positive
+"environment",miscellaneous
+"Tim is really an awesome teacher.Thanks dude:)",positive
+"Why is the column n_siblings_spouses in the categorical array if its values are integers???",interrogative
+"Thank you",positive
+"Thank you for your tutorial. I want to ask, if i want to use a model that was created on Google Colab to be used as a GUI, how do I do it ?",positive
+"it was good but many topics were not understood",negative
+"Then only issue I have with this video is the low volume.",negative
+"Well I just got nerd-sniped",miscellaneous
+"3:30 ~Introduction.",miscellaneous
+"59:52 Ignore me. Just marketing where I stopped.",miscellaneous
+"I am just little confused.  Is this python or tensorflow?",interrogative
+"I swear I didn't want to watch this video at the moment, so while watching I kept tapping my screen to see where I'm at, but I still managed to sit for 30min without even goal of watching the video that's how interesting this is.I haven't watched further since I thought I finished module 1 without even wanting to I'll take a break and give my dedication when I am into it. I feel like I just need to organise myself and I don't need college anymore",miscellaneous
+"Venke Vinj Tim, this is a good one. I picked up a thing or two. Keep it flowing :)",positive
+"The curriculum looks great. Is this course good enough to crack the Tensorflow developer certification exam for beginners?",interrogative
+"5:13:41. how did you get VOCAB_SIZE?",interrogative
+"Why are we using a activation function in CNN, we use pooling to reduce the dimension but an activation function increases the dimension as was said before ? 4:11:45",interrogative
+"I wish he used pycharm",imperative
+"Hi guys I have a small doubt while doing supervised learning like linear regression in this we don't actually pass our labels (outputs to be predicted) in the test data right but in this video he passed the labels while testing(test set) the titanic dataset right? correct me If i am wrong",interrogative
+"Please mate try to explain every funcion what it does because im such a mess with so many functions in Python and different libraries.",imperative
+"26:57 Does enviorment equals to state?",interrogative
+"I'm two hours in and I have to say you did a really great job with this. I don't really post YouTube comments but this is awesome.",positive
+"19.03.2020. 18:03 import tensorflow as tf print(tf.__version__)",miscellaneous
+"i think you must buy some nice mic as your audio output is worst",negative
+"Why the dislikes??????",interrogative
+"3:37:28 I think you just trained the previously trained model.",miscellaneous
+"i get an error stating that tensorflow has no attribute 'Session'",negative
+"2:41:47 what is a tensorflow session?",interrogative
+"Thanks we waiting for Keras",positive
+"Very good course, but please get to the point and don't repeat yourself.",corrective
+"Watching at 2:00 AM",miscellaneous
+"Hi Tim,Its been a Wonderful Course!!! But I have A Problem, I Don't Know Where to came from, In The DNNS Classifier, You Always go0t a Success rate of at least 60%, but EveryTime I Run it, I Get Only A 28-40% Probability, Once it came to 50.Can Anyone Plz Help Me>",interrogative
+"hey could you help to add subtitles which automated by youtube",interrogative
+"this is great! until they decide to change everything on us again...",positive
+"I have a question. Should I know about all the math behind the ML concepts like SVMs and gradient decent or is it okay to proceed in the field of ML and DL without a deeper understanding of the math?",interrogative
+"Why are n_siblings_spouses and parch considered categorical data (and not numeric data), when they're comprised of numbers in the data set?",interrogative
+"At 17:23 you said labels are the output information we get by predicting from features and at 18:36 you say that features and labels are combined to get the output we need. Its pretty confusing.",negative
+"1:30:50",miscellaneous
+"Thank you for all your efforts Tim - I have been programming for about 25 years but only in VBA/SQL for Excel and Access, so very much traditional CRM/Back Office functionality etc and a little bit of ASP/HTML/CSS/JavaScript for the the web - so no actual Python Experience and completely new to Colab/Jupyter  notebooks, Google Drive and of course ML/TensorFlow, but I was able to follow your course over a few days and nipped off here and there to learn the some basics of Python/Numpy/Pandas/MatPlotLib etc  just so i could keep up and understand your code a bit more. I thought your course was excellent a perfect mix of hand holding giving a great overview and good level of detail in the right places.I've no idea how long it took you to create it - but it took me three long days to watch it, back-up re-watch etc but I truly got a huge amount of value from it so a BIG THANK-YOU and I highly recommend it as a very informative starting point for anyone new to ML.  I didn't realise there were so many different types of ML but this course has certainly clarified the areas of ML that I am interested in and i'm much clearer on the path where I need to focus going forward - Five Gold Stars for content! Eleven out of Ten for effort!!",positive
+"3:02:30",miscellaneous
+"I thought that the neural network part is creating it from scratch",miscellaneous
+"1.25 speed is recommended",miscellaneous
+"In the Module 5: Deep Computer Vision. When you normalize the pixels, you write ""test_images = train_images / 255.0""...",miscellaneous
+"1:33:47",miscellaneous
+"Very beautiful explanation. Easy to understand. Recommended for beginners.",positive
+"You rule Tim! Best 7 hours invested in quarantine!",positive
+"environment 26:24",miscellaneous
+"Thanks for explaining so much in a video. Really appreciate",positive
+"3:45:29",miscellaneous
+"Keras codes not working !! we have to use tf.keras and codes are not working! Give suggestions",negative
+"You obviously lack a lot of the fundamental knowledge but props for the effort and video quality.",negative
+"whats with all the bot messages in the comments...",negative
+"This kid taught an adult. 😍",miscellaneous
+"drink a glass of water!. man...please....",imperative
+"3:22:55",miscellaneous
+"Classification @ 1:55:46 but I will skip it since i'm not gonna use it",miscellaneous
+"1:20:32",miscellaneous
+"STANDARD DEVIATION: When we find the average of all the points, then it is called mean. And from the mean point, all the other points may deviate by some degrees. If we find all the deviations of the points from the mean, and average it, we get standard deviation.For mean temperature 15 and standard deviation 10 means, that throughout the day the temperature varied. But if we find the average of the temperature throughout the day, its mean is 15. The variation can be min:-15 to max:+50, that does not matter, but if we find the average of the variation from the mean then we get a standard deviation 10.",miscellaneous
+"How can I prepare and load my own datasets offline..",interrogative
+"Just what is up with the people who downvoted this video?For the first time, the difference among many buzzwords has been made clear to me! I feel as if even I can give a lecture on Artificial Intelligence and Machine Learning now! I am sooooo...happy!",interrogative
+"At 1:25:38 print(dftrain.loc[0], y_train.loc[0]) actually only prints the value of dftrain.loc[0] and Name:0 just refers to the index of the entry. If you want to display y_train.loc[0] you have to print it seperately with print(y_train.loc[0]) or print(y_train[0]) (both work)",miscellaneous
+"Pal, this is really cool! Thanks. Im getting a cap...",positive
+"please, provide full course in hindi",imperative
+"47:17",miscellaneous
+"Man, do you hava an bionic hand?",interrogative
+"how can i download  the slides of course?",interrogative
+"Thanks for the hard works! I can hear his gulping due to speaking too much.",positive
+"*My takeaways:*1. TensorFlow has two main components: graph and session 33:052. We can rebuild a model and change its original parameters 5:56:313. Reinforcement learning with Q-Learning 6:08:00",miscellaneous
+"bro, you were teaching linear classifier not regression.",corrective
+"Great tutorial, better than any I've found in 2020! Thank you!",positive
+"Thanks Tim, we appreciate you taking time to make such a nice tutorial for us. I'll come back after I watched the whole tutorial. \m/",positive
+"This is confusing and I don't recommend this for beginners at all. I strongly suggest 'codebasics' tutorials.",negative
+"1:18:57 TRUE",miscellaneous
+"The coding part is great, however beginners must take his explanation and intuition behind the mathematical part with a grain of salt",negative
+"God will bless you bro  for presenting such a wonderful course.  Although they are certain mistake that was made along the line, Like the regression, classification and so forth. No one is perfect, I guess I have learnt a lot her, what next from here i guess is to lay my hand on some challenging projects.",positive
+"Could you help: How can I assign the accuracy to a variable, like a=accuracy or a = binary_accuracy. This is part of the code of the neural network:   model = Sequential()  model.add(Dense(48, input_dim=48, activation='relu'))  model.add(Dense(24, activation='relu'))  model.add(Dense(2, activation='sigmoid'))  model.compile(loss='mean_squared_error',                optimizer='adam',                metrics=['binary_accuracy']  model.fit(training_data, target_data, epochs=1000)  scores = model.evaluate(training_data, target_data)    ""training_data, target_data are arrays""    Result of evaluation:  binary_accuracy: 0.5000  binary_accuracy: 50.00%",interrogative
+"Thank you for the time and effort. Helps me a lot. But, 1:51:39 You talk about probabilities of ""survived"" and ""did not survive"". Two classes, but the sample says this is regression. Isn't it a classification problem?  Shouldn't a regression be predicting a number which is the chance of survival as a single number? Thank you.",interrogative
+"Don't waste time watching that.",negative
+"need more slashes",miscellaneous
+"why didnt i fount this before buying a Course on udemy? :(",interrogative
+"How can people dislike this ?  That's clear code, clear explainations and a lot of work, thanks you !",positive
+"at 46:57  you have to explicitly mention, dtype=tf.int16, else it doesn't consider the argument INPUT - tensor_int2 = tf.Variable(200, dtype=tf.int64) OUTPUT - <tf.Variable 'Variable:0' shape=() dtype=int64, numpy=200> and  INPUT  - tensor_int3 = tf.Variable(300, tf.int16), OUTPUT - <tf.Variable 'Variable:0' shape=() dtype=int32, numpy=300>",imperative
+"nice green eyes",positive
+"OMG dude you're lit. I've just watched all 7 hours, great course!",positive
+"1:47:06 Congratulations to those who reached this part. You've just created a machine learning program.",positive
+"Is there any English subtitle?",interrogative
+"please add subtitle(",imperative
+"Macbook Pro with 16GB or a windows laptop is more viable for Machine Learning and python? Please someone help",imperative
+"TensorFlow 2 does not have the tf.Session() context anymore, you should update that!",corrective
+"Should we Learn Numpy and Pandas first before going into this course?",interrogative
+"2:38:42",miscellaneous
+"Someone, please help me, I am new to Tensorflow and ML, I have a confusion regarding pop the label column. As far as I know, we train our model providing the features and labels first, then we put some features and hope the model would predict the labels. But my question is then why we put labels in the test data also and pop it?",interrogative
+"Amazing dude!!",positive
+"Wow! Seems like a lot of AI has been used in the comment box. Can't actually complain, though.",positive
+"Pretty Comprehensive Tutorial. Covers all the basics and provides hands-on knowledge of Tensorflow 2.0. Thanks for your effort.",positive
+"Thank you ;)",positive
+"This is my own opinion....i'm in 43 minutes...and it's just talk and talk.....it's kinda getting boring....atleast show us some samples of working model...so that we get interested like...""ohh that's cool... i want to do that"" ..and then we will sit through the rest of the video....like let us taste the cake that we are going to make, then start the course....don't make us wait an hour only to find out that we don't like the taste of it........",imperative
+"Do I need any basic python skills before I venture into this?",interrogative
+"At 3:37:10... actually the code has run for  19 times on the train data and three time on test data... to check it over need to reset model or reset runtime...",miscellaneous
+"Thank you very much for making this tutorial ❤",positive
+"My AI counted ""412"" instances of ""essentially"" in the transcript",miscellaneous
+"3:37:20 For some reason it appears 7/7 when im trainning the model but my dataset is 200, and your is 60,000 and it clearly shows you 60000/60000",miscellaneous
+"Just wanted to add one small detail that in Module 4, while training the model on 1 epoch after training it for sometime, what actually happens in ipython notebooks is that they continue training on above of the previously trained model. So, that is why we got pretty high accuracy for one epoch, but technically that accuracy we got was not just from one epoch.",miscellaneous
+"2:30:11",miscellaneous
+"Tim got 80% accuracy on the flowers classification while I am getting 95% with the same code. Same number of steps and same GNNClassifier. Is someone getting the same thing?",interrogative
+"Miles Dyson(Terminator 2) is watching this",miscellaneous
+"why is module 2 in the description link different from the one shown?",interrogative
+"Great course 👌👌",positive
+"2:08:44 You say 0.39 is pretty bad: me looks at my loss: *sees 0.948*",miscellaneous
+"30:00",miscellaneous
+"⌨️ Module 1: Machine Learning Fundamentals (00:03:25) ⌨️ Module 2: Introduction to TensorFlow (00:30:08) ⌨️ Module 3: Core Learning Algorithms (01:00:00) ⌨️ Module 4: Neural Networks with TensorFlow (02:45:39) ⌨️ Module 5: Deep Computer Vision - Convolutional Neural Networks (03:43:10) ⌨️ Module 6: Natural Language Processing with RNNs (04:40:44) ⌨️ Module 7: Reinforcement Learning with Q-Learning (06:08:00) ⌨️ Module 8: Conclusion and Next Steps (06:48:24)",miscellaneous
+"Would you add ""English Subtitle"" for those who have a hard time understanding?",interrogative
+"48:40  Bookmark",miscellaneous
+"He just missed the chance to end the introduction perfectly at 30:00",miscellaneous
+"i love you",positive
+"You are applying a linear algorithm to predict a discrete output survived / not survived , how is that possible?",interrogative
+"Thank you very very very very much",positive
+"30:04 mark",miscellaneous
+"why is there no documentation about the video",interrogative
+"2:17:25 ahahahah whats that sound",interrogative
+"for module 3 I am getting {'accuracy': 0.625, 'accuracy_baseline': 0.625, 'auc': 0.5} everytime what I have done wrong here can anyone explain please help!",imperative
+"Thanks a lot for this course",positive
+"Nice explination ..!",positive
+"Hii   i am facing the following error .... ""Input0 is incompatible with layer flattern_12",miscellaneous
+"Gorgre RR martain be lookn at the RNN section like .....hmmmm so you say you can upload any text and it will write as much as I want it to for me like say 2 1000 page books XD",miscellaneous
+"can you add subtitles?",interrogative
+"Hey Thanks for sharing your knowledge friend! I saw that TensorFlow can run only in systems with NVidia GPUs, but I have a really strong AMD one.. Will I have a problem running it? Thanks",interrogative
+"I'm getting a html error 403 with the training and testing cvs' at 1:34:19, does anyone know what the heck is going on?",interrogative
+"Instead of working on the notebook, can I do the work on my IDE?",interrogative
+"Hi! I'm 2:45 hours in, I am learning to work with tf in University, so I already knew most of the things he showed until then. I am specifically looking for an explanation of tensorflow ops and how to create custom ones. Is this covered in this class at some point? Or do you know where I can find a tutorial on this (other than tf's documentation)?",interrogative
+"Love your video, thanks for your c++ tutorial.",positive
+"""it's kinda hard to explain lambda if you don't know what lambda is..."" tf you on about?",miscellaneous
+"what is keras???",interrogative
+"what tools u use to recording your screen as the same time recording your head",interrogative
+"at 1:18-1:19, ""fare"" is how much they paid (in british pounds) for their ticket",interrogative
+"2:06:54 is there any particular reason why we didn't just create an inner function previously or is using lamba just clearer coding?",interrogative
+"Dude, this course is amazing. I've only been through a third of it, but I know that I will watch it completely. Thanks you so much for sharing it",positive
+"Amazing tutorial with really good explanations and drawings to understand basics. It is exactly what I was looking for with my level in Python and AI. I will definitely subscribe for more turorials :)",positive
+"Impressive job!! Much appreciated!",positive
+"46:55don't mind me, just reminding myself",miscellaneous
+"Really digging the tutorial, however could you maybe provide more timestamps? Most modules are longer than an hour and quickly choosing between each subtopic would be very helpful",interrogative
+"is this tutorial (notebook)  publish anywhere ?",interrogative
+"3:37:01 Training on one epoch in this case builds on already existing model that was created using many epochs. You need to recreate the model to demonstrate this",imperative
+"in the feature code, i'm getting an error ""name 'numeric_column' is not defined",negative
+"Every video I've watched on Machine learning assumes we're in 1st grade and a college math major at the same time.""A tensor is a generalization of multidimensional vectors or matrices blah blah blah""5 mins later""Slope is rise over run.",miscellaneous
+"42:37",miscellaneous
+"Really good course for beginners, i'll recommand it. Thank you a lot for your time!",positive
+"@1:46:42 your comment says clears consoke output, I think you meant to say clears console output, just giving heads up :).",corrective
+"For mac users that can't get macplotlib to show up, make sure to import it like this (import matplotlib.pyplot as plt)",imperative
+"When you were fitting the model around 3:35:00, it looked like each run of model.fit() was actually running from the previously fit model, rather than on a fresh, unfit model. So essentially the first run had a total of 10 epochs, then 18, then 19, rather than 10, 8, and 1 like you seemed to think. I don't know if you caught this later in the video, but it didn't seem like you did here. Great video though. I've learned a lot, and I'm also surprised I've never heard of Colab before.",corrective
+"Great presentation! I`ve learned many new things. But I wonder if you can make a new course for preparing data, because, as I see, it is the most difficult part. For example, I haven`t found information about how to build your own dataset if I don`t want to use those predefined. I want to make a dataset to train a NN with pictures with bottles and glasses. How do I build a dataset similar to keras predefined? Or how do I read a set of jpg files representing glasses and bottles?",interrogative
+"Just a comment, on 3:36:44, when you train the network again it's not re-training from scratch but instead using the weights it already had. Unless you manually reset the graph, you'll be training for the sum of all epochs you used the fit function (like 10 + 8 + 1 epochs) To avoid this problem you should use something like keras.backend.clear_session() or tf.reset_default_graph() between tests with hyperparameters 😉",miscellaneous
+"@1:15:00 you did not mention what the 'from six.moves import urllib stands for.  Was curious what that was? It's possible you accidentally skipped over this one.  You can always add an annotation on the video if you know the answer so it shows for others.",interrogative
+"Very cool, helpful and exhaustive video for beginners in machine learning just maybe it's sad that you don't have explained object detection in greater details. All the best. Cheers from Belgium.",positive
+".",miscellaneous
+"Please make tflite tutorials also in  depth",imperative
+"this one is the best course that i could found on the youtube. thank you soo much TIM all the efforts.",positive
+"Parch is a redundant feature, it tells the number of parents / children aboard the Titanic. Fare is the price the person pay to embark... another redundant feature, since the class mean something pretty similar",miscellaneous
+"<3",positive
+"The google collaboratory is insanely useful..",positive
+"Sessions were officially removed in TensorFlow 2.x",miscellaneous
+"When using tf.rank(), a rank of zero would indicate a scalar, 1 would be a row vector, and 2 would be a column vector? Thank you Tim for constructing this video. I greatly appreciate it.",interrogative
+"I get difficulty in making the prediction code for in CNN session ....can you help me ?",interrogative
+"Could someone tell me the prerequisites before taking this?",interrogative
+"eeeo",miscellaneous
+"can i import tensorflow library in Pycharm 2020.1 ??",interrogative
+"The mass of bought comments gives me bad vibes. Don't waste your time.",imperative
+"image at 3:23:59 is a condom",miscellaneous
+"The Q in Q-Learning might originiate from the definition of a DFA where Q is a finite set of states.",miscellaneous
+"OMG , Just what I wanted :)",positive
+"In the module 3  for feature_name in CATEGORICAL_COLUMNS:   vocabulary = dftrain[feature_name].unique   feature_columns.append(tf.feature_column.categorical_column_with_vocabulary_list(feature_name,vocabulary) SyntaxError: unexpected EOF while parsing  for some in NUMERICAL_COLUMNS:   feature_columns.append(tf.feature_column.numeric_column(some,dtype=tf.float32)) error: for some in NUMERICAL_COLUMNS:                                  ^ SyntaxError: invalid syntax",miscellaneous
+"When you explain linear regression un 3D x,y -->z the result to aprox is a 3D plane",miscellaneous
+"Thanks ! Enjoyed the content. Was a great revision.",positive
+"TURN ON SUBTITLE...",imperative
+"Wow...thank you, 7hrs well spent! :)",positive
+"For some reasons, none of the graphs seem to show for me (like for example: dftrain.sex.value_counts().plot(kind='barh') ). I have everything imported, anyone knows the solution to this?",interrogative
+"This is like weeding out the weak with a missile to get rid of a weed *AND THE WEED IS STILL THERE*",miscellaneous
+"I would guess fare is how much they paid",miscellaneous
+"Hey Tim, For that Linear Regression Model, the output we need to predict is actually whether the person is alive or dead ryt, so its basically 2 discrete output values. Can u explain y we chose LR over Classification for that model.",interrogative
+"I did my setup, I've downloaded the notebooks and running everything locally inside vs code. It's much better. I've also set it up to use my GPU instead of the CPU",positive
+"You're an awesome teacher.  Not too slow and detailed.",positive
+"how to use dark theme in chrome in all sites?",interrogative
+"many of your visual explanations made sense so naturaly, thank you so much!",positive
+"Andrew NG then Tim, feeling blessed and lucky.",positive
+"great",positive
+"Guys, use GPU Compute for Google Colab.....Makes things way faster.......For the Computer Vision CNN, my training time went from 35 minutes to 3 minutes",imperative
+"Well, I guess this is my entire day today... I'll edit later to let you know how this goes",positive
+"Thanks for your effort, but i located some errors in the 2 first hours. not gonna continue watching this. Sorry",negative
+"hello can you help me ...I want to feed my network with 4 dimensonal data how can I do it? I have pictures at the shape of (30,30,3)...Thank you in advance!",interrogative
+"20:00",miscellaneous
+"Thank you for such a great resource of free knowledge!! This was awesome",positive
+"Click the ""JOIN"" button below the video to support freeCodeCamp.org!",imperative
+"This is a really great course. Thank you.",positive
+"43:09 This doesn't work",negative
+"i still can't install the tensorflow. what to do?",interrogative
+"around 2:11:05 My classisfier only trains for one step and stops, what could be the issue?Could it be an issue with my temp folder?",interrogative
+"@26:23 And that is how they build the Matrix. Great video.",positive
+"good afternoon.I am Latin American and I could not see your video because it does not have subtitles to understand what it says.thanks.",negative
+"Good Morning. I could put subtitles for this video. thanks.",positive
+"Good Morning. I could put subtitles for this video. thanks.",positive
+"Could you make a video solely on the pre-processing of data? For example, for RNNs, you used the IMDb dataset that was pre-encoded. Could you show how to work with .txt files. Furthermore,  how do you work with excel and csv files instead of pre-set databases you used for examples. Other than this, love the video",interrogative
+"Packie McReary, is that you?",interrogative
+"First, thank you, impressive work dude. I just have a question if you may answer it. I've been looking for how to use DNN for time series, ( in my case in HR, where each instance of the data set is a specific employee in a specific date) I am so confused I can't find where to start. Please point the way and I'll do the rest, thank you in advance",interrogative
+"3:12:33 i dont' thing cost and loss are the same thing. loss function mainly applies for a single training set as compared to the cost function which deals with a penalty for a number of training sets or the complete batch",corrective
+"how many years of zen meditation do you need to get to that level of self-awareness",interrogative
+"Note it is Very VERY good idea, to learn Pandas, Basic scikit library, before jumping into tensorflow.",miscellaneous
+"It was awesome I've just watched it all. Thank you so much for your effort.",positive
+"At 3:42:10  ... why the prediction = model.prediction(np.array([image])) instead of prediction  = model.prediction(image) ?. The image are already in array right if im not mistaken",interrogative
+"Beautiful work, congratulations",positive
+"Excellent!!",positive
+"Dude this is fantastic. Thank you how can anyone dislike this i dont know I cant believe that they use bots for the youtube comments. There are numerous comments like exactly above",negative
+"Does Tensorflow 2 have Deep Belief Networks?",interrogative
+"Amazing explanation! Everytime you said you didn't know how to explain something that well, you actuallty explained it perfectly! hahaha",positive
+"49:36 why does it say dtype = int32 in <tf.Tensor: shape=(), dtype=int32, numpy=2>, even thou he set it to tf.string ?  can anyone explain pleas.   edit: i tried it in the notebook. every example gives me dtype=int32",interrogative
+"Does this video teach about the dynamic computation graph feature of TF 2.0 ( tf eager execution) ??",interrogative
+"One of the best videos.. you earned  a subscriber ,,keep it up!!!",positive
+"47:24",miscellaneous
+"7 whole hours, seriously?",miscellaneous
+"Thank You",positive
+"i can't do anything to help u guys but u're the best",positive
+"parch: The dataset defines family relations in this way...Parent = mother, fatherChild = daughter, son, stepdaughter, stepsonSome children travelled only with a nanny, therefore parch=0 for them.",miscellaneous
+"Your couse is amazing.",positive
+"10:26 "miscellaneous
+"Neural Networks get people really hyped...",miscellaneous
+"Me: Looks at video title Me: ""I see what you did there.",miscellaneous
+"lol so many bots in comments!! Wow! I love bots! My bots are going places! only 300 bots in! How anyone can dislike bots i don't know!",miscellaneous
+"Already sub to your own channel",positive
+"Thanks so much",positive
+"Thanks.",positive
+"Do I need to write the same line of code as in 1:43:58  for my every Machine Learning problem?",interrogative
+"What's with all of these bots in the comments??? I'm seeing the same phrase being said by a load of accounts...",interrogative
+"Okay, TechWithTim being featured on freeCodeCamp! My boy is going places!!! Dude, this is fantastic! thank you. How can anyone dislike this i dont know! Dude, this is fantastic! thank you. How can anyone dislike this i dont know!",interrogative
+"1:44:00",miscellaneous
+"Isn't the diagram at 24:15 an example of Clustering? I always thought the output for Unsupervised Learning was not present and the model learns from trial and error pattern. I don't see a direct link between unsupervised learning and Clustering. Please can someone clear my doubts?",imperative
+"really an hight quality content. great job!",positive
+"Sorry, dude. I didn't last to 2 hours. Started out great, but was no longer helpful when you started zooming through code telling us that you weren't going to explain things and it didn't matter.",negative
+"2:46:35 NN starts here.",miscellaneous
+"Neural Networks are like Ogres, they have LAYERS",miscellaneous
+"Why there is so much bots responses on this video?",interrogative
+"A brief yet thorough overview of the big picture of ML. A lot of work is done to create the whole series so a great thank you to Tim and freecodecamp.",positive
+"1:19:35 fare is i think the price of the ticket for travelling",miscellaneous
+"Never regret subscribing to this guy  ages ago. It shed the light on so many aspects that were fuzzy in my brain. it's like Johnny Nash once said, ""I can see clearly now the rain is gone",positive
+"fare is cost of ticket obvio. this dataset is from kaggle btw",miscellaneous
+"Great tutorial, especially from the practical(coding) part of ML which I was actually more interested personally!! Thank you!!!",positive
+"Loved it! Great tutorial covering a lot of areas. TechWithTim's explanation and the epic examples help open up the field to beginners like me, and the 7 hours were super-interesting!",positive
+"You're the man, Tim! Thank you freeCodeCamp!",positive
+"Hi Tim, ` t3 = tf.Variable([1], tf.int16)  t4 = tf.Variable([[1,1], [2,2]], tf.int16)   tf.rank(t3) <tf.Tensor: shape=(), dtype=int32, numpy=1>  tf.rank(t4) <tf.Tensor: shape=(), dtype=int32, numpy=2>  t4.shape TensorShape([2, 2])  Why is that the rank and shape for the variable t4 show different outputs? in one case the shape is empty, and in the second (2,2). Also for all the rank() the shape is empty. Any clue?",interrogative
+"1:55:00",miscellaneous
+"Great amount of details covered, what I missed was Unsupervised learning with CNN, looking forward for session on that. Thank you,",positive
+"who's botting the comment section??",interrogative
+"Can I do the course with an normal Jupyter Notebook IDE instead of Collab?",interrogative
+"I have to stay at bc of corona so lets go",miscellaneous
+"Where are the links ?",interrogative
+"it's only 30 minutes and I'm already loving  it Turn on captions please! Wow, I love you. Dude, this is fantastic! thank you. How can anyone dislike this i dont know! Another video need to be saved :) Thank you so much Tim!! ❤️",interrogative
+"At 57.09 I am getting an error: AttributeError: module 'tensorflow' has no attribute 'Session'   cant fix, Please someone suggest a solution who was able to go through this",imperative
+"So they used bots to post comments , half of them are bots, although the course is sweet. But just so that you know they are bots",miscellaneous
+"Really like this course",positive
+"Consider me training a model on half of a dataset and my friend on the remaining half.....is it possible to combine out training output so that we get a higher accuracy?",interrogative
+"Can anyone please tell why we need an input function for Linear regresssion Edit: I was seeing the Docstrings for the train function and saw that it expected a curreid function as a parameter",interrogative
+"I am not sure if the description of categorical columns is correct. If you are going to encode females as 0 and male as 1 you are introducing some relation between categories. Or if you encode cities you may end up with values 1- NYC 2- LA 3-WAS and it would mean that Washington value is 3 times of NYC. I think how it is really done in the engine is that you introduce separate column for each category value. Sor for sex you would get two columns: Female and Male with boolean values. If it is female then Female column is equal 1 and male 0. You can do same with cities. If we have only three cities then there would three extra columns with boolean values indicating which city it was.",corrective
+"at 1:35:49:  To those who are reading now, read up on One hot encoding",miscellaneous
+"Please enable auto subtitles for this...",imperative
+"Although I can appreciate the amount of content in this video, I must point out for the beginners here that some of the explanations in the video are not correct. I am currently at 2:03:08 and so far I have noticed two main things:  at 1:11:05 he explained that in linear regression in 3d space, assuming a linear relationship, you try to use two variables to predict the value of the third. This is true, but the model is then not a straight line pointing somewhere in 3d space, but a 2d plane. Such false information gives beginners a bad intuition for these things.   Furthermore, the whole Titanic survival prediction section was a classification task, so it had little to do with linear regression. He used the LinearClassifier object, which (probably) runs a logistic regression in the background. In the output dictionary, there were keys that are typical for the output of a logistic regression. Although linear regression and logistic regression are both algorithms that create models that assume a linear relationship between input variables, they are completely different algorithms. I would have liked to see a clear distinction between regression and classification problems here, because these are fundamental concepts in ML and the video wrongly conveys that you solve a regression problem by predicting whether a passenger survives or not.  edit: His intuitive explanation at 3:09:13 of what activation functions do is just wrong. The sigmoid function does not project the data points into higher dimensional space, quite the opposite, actually. The sigmoid function is defined as f: R^n -> [0,1], so it takes as input an n-dimensional vector and it yields a scalar (fancy word for a single number). This whole ""projection into higher dimensional space"" thing is known as the Kernel trick and is NOT used in his examples, it's something completely different. Activation functions are used in Neural Networks because they introduce non-linearity which you need because otherwise your Neural Network would just be a linear classifier so it would basically do one big weighted summation of the inputs. This is not enough to capture complicated relationships in data. With non-linearity introduced, it can be shown that a Neural Network can approximate any function with arbitrary accuracy, that is any function that might have generated the data. Read up on the universal approximation theorem, if you want to learn more.  edit 2: 3:36:15 You don't evaluate on your test data multiple times to select the best set of hyperparameters. That way, you overfit your test data. A cleaner approach would be to split the data into three sets: the training set, the validation set and the test set. Prior to training you define a few selections of hyperparameters you want to select the best from before you train all these models on the training data. You then evaluate the performance of each model on the validation data. Finally, you select the best performing model and test it on the test data to get a final estimate of the model's performance on completely new data points. There are more sophisticated approaches to do hyperparameter tuning but this is the basic idea.",corrective
+"please upload subtitle",imperative
+"loved your material and explination tim best course for tensorflow",positive
+"Can anyone please tell me why we return the name of the function in the make_input_fn , I could not understand it while creating the Titanic survivors dataset",interrogative
+"""AttributeError: module 'tensorflow' has no attribute 'variable'""I'm getting this error anytime I use tf.variable().Plz guide me how to fix it.",imperative
+"Should I follow this course or his MegaAi course in his channel? I want to master ML the best way possible which doesnt and I dont care how long it will take.",interrogative
+"This is awesome, I have watched all topics now! Thanks for this! I have a QQ regarding the text generation section, why do we have vocab size = batch size + 1 (the example you used is batch size = 64 and vocab size = 65)",interrogative
+"Superb!!! btw, may i ask you what software do you use for recording screen video? Thank you!",interrogative
+"Too generic about ML it should be about tensorflow",corrective
+"you're nuts dude",negative
+"Sadly, the questions nobody really answers weren't answered here either: How does one decide which activation functions to pick? What problems require which kind of activation functions? Also, how do you go about deciding how big your layers are? You and everyone else says it depends, but on what? Are these all questions answered by hyper-parameter tuning, or is there more wisdom to it?",interrogative
+"This is a great course.  Thanks.  How do I open TensorFlow-Introduction.ipynb ?",interrogative
+"Do not waste your time on this. It's just code copied from the documentation and stretched to a 7 hour video, I didn't get anything from this.",negative
+"Around 1:11:11 the ""line of best fit"" with two predictor variables should be a plane, no?",miscellaneous
+"Thank you FreeCodeCamp for creating this course.",positive
+"The really cool thing about this tutorial is that I was able to follow it and try the code on my iPad Pro 11"". No need for MacBook Pro or Surface Pro.",positive
+"Dude, this is fantastic! thank you. How can anyone dislike this i dont know! thanks alot for this knowledge Wow, that's TIM What a timing! I've just finished a teoreticall ml course and it's time for some practise :D",positive
+"An amazing introduction to the world of ML and TensorFlow. Thank you!",positive
+"why the dtype is int32 for rank2_tensor at 00:49:28, while it is a list of string?!!",interrogative
+"Good day Tim, code rockstar! Great video again thank you so much, but where are the English subtitles? cheers from Cozy Amsterdam SciencePark",positive
+"You have amazing programming skills! I have been working as a software developer for 10 years and my programming skills and knowledge can't event match up with you, you are crazy man!",positive
+"Hello Sir..I m from Pakistan.I need a program, vba, excel sheet, or anything else.. In which I do add may data in Numaric form that is 1,2,3 etc and then that data plot or draw in AutoCAD with one click",miscellaneous
+"your handwriting is just fine .",miscellaneous
+"Great video ! It could be cool videos about reinforcement learning",positive
+"Thanks Tim.. awesome video.",positive
+"after 20 min  ...very good investment of my time so far :) Thank You. Just awesome",positive
+"Real quick but important question! What autocomplete for Google Colab is as or almost as good as Kite?",interrogative
+"Learning Pytorch nowadays. Please add a Pytorch tutorial if possible",imperative
+"This video is pure gold, the guy explains really well. Learned more from this than payed courses. Thanks so much, keep it up!",positive
+"I learn RL and i in DQL and program same sulotion game openAi ( gym ) use DQL . my question is if I can use DQL in other domain with example and thanks",interrogative
+"someone please tell me i have not done any machine learning before is this course suited for me..?? or not..??",imperative
+"that's great but i'm struggling understand what u said ( listining  problem ) can you add subtitle to ur course ? anyway thanks a lot",interrogative
+"I learned two things 1 . Tensorflow 2. You have bad hand writing",miscellaneous
+"it's only 30 minutes and I'm already loving  it",positive
+"Turn on captions please!",imperative
+"It annoys me so much that you keep pronouncing Sepal length as Septal length all the time, jesus christ",miscellaneous
+"So Humble. Thanks Tim",positive
+"Wow, I love you. freecodecamp is lifesaver",positive
+"what's that in your right hand?",interrogative
+"Fantastic !",positive
+"Fare would be the amount they paid for the trip / ticket price. Parch  is # of Parents/Children aboard.",miscellaneous
+"Woww Tim.....you just did a god thing !! We owe you always 🙏🏻🙏🏻and freecodecamp anything I say it's always less about this !!!!",positive
+"Do this cover ml algorithms?",miscellaneous
+"It's a nice place tutorial.Thanks very much",positive
+"Dude, this is fantastic! thank you. How can anyone dislike this i dont know!",positive
+"Nice coding Can see video of coding on my channel 🙄🙄🙄🙄🙄 lets goo",positive
+"Prerequisite for this course??",interrogative
+"Archived! Thank you",positive
+"Wow, that's TIM",positive
+"Love it",positive
+"CEO of tensor flow",miscellaneous
+"Tim your efforts can be seen thank you so much freeCodeCamp and Tim",positive
+"Oh look, Its Tim!",miscellaneous
+"Mate, this was very cool. I'd never heard of it before, but coming from a Python background, I found this very helpful. Keep up the great work! Looking forward to what else you have on offer.",positive
+"The second argument to tf.Variable() is trainable not dtype, so when you set string = tf.Variable('some string', tf.string), you set string.trainable to tf.string. You can verify it by printing string.trainable.",corrective
+"Cool. I Should start learning python",miscellaneous
+"There are a lot of tutorials like this already available but there is less content about cleaning data or building pipelines it would be really helpful if you could make tutorials on it",imperative
+"What a timing! I've just finished a teoreticall ml course and it's time for some practise :D",miscellaneous
+"Please anyone translate this video into Arabic",imperative
+"Wow, I love you.",positive
+"Great video !! Please make another one on advanced videos on AI, Machine Learning and neural networks !!!",imperative
+"Wow. Did you just release this? Lucky me",interrogative
+"First",miscellaneous
+"Going to see this this video...",miscellaneous
+"Bagus !!",miscellaneous
+"Let me know what you guys think of the course?! Took a lot of preparation and work to get this out for you guys. Hope you all enjoy and get a solid foundation in the world of machine learning :)",miscellaneous
+"I have learned a lot from this channel (thanks a lot to quincy Larson and  Beau for his wonderful teaching, I have mastered JavaScript because of him) and its website and now it is time to pay back to the community.    I wanted a channel where I can access tutorials which tackle flask web applications specifically based on machine learning. Hence, I created a channel.   Checkout my channel for building flask machine learning powered application.  Thanks and PEACE.",imperative
+"Thank you",positive
+"Another video need to be saved :) Thank you so much Tim!! ❤️",positive
+"thanks alot for this knowledge",positive
+"Okay, TechWithTim being featured on freeCodeCamp! My boy is going places!!!",miscellaneous
+"⭐️ Google Colaboratory Notebooks ⭐️  📕 Module 2: Introduction to TensorFlow - https://colab.research.google.com/dri... 📗 Module 3: Core Learning Algorithms - https://colab.research.google.com/dri... 📘 Module 4: Neural Networks with TensorFlow - https://colab.research.google.com/dri... 📙 Module 5: Deep Computer Vision - https://colab.research.google.com/dri... 📔 Module 6: Natural Language Processing with RNNs -  https://colab.research.google.com/dri... 📒 Module 7: Reinforcement Learning -  https://colab.research.google.com/dri...",miscellaneous
+"4th comment",miscellaneous
+"freeCodeCamp you are the best!",positive
+"First comment 😍",positive
+"Thanks sir!",positive
+"First",miscellaneous
+"Scotland a country that deserves its independence we stole that country long ago and they should have it back..its there  country not ours..",miscellaneous
+"da meaning of ...never mind i am dutch",miscellaneous
+"Scotland would literally collapse over night if it didn't receive the English tax payers money lol everyone with any braincells can see that lol I'd like to. See it happen just so I could see sturgeons face... Even the bank of England has said Scotland would have a seriously difficult time without the English tax payers ""hand out"".",miscellaneous
+"Beautiful land with beautiful people. Love from Greece!",positive
+"It means to watch braveheart",miscellaneous
+"Ned Culture is a the like a cancer here in Scotland.",negative
+"Ya ha mama R6 😂",miscellaneous
+"He's sister is a fat big now 😂",miscellaneous
+"Pls bring narin bro",imperative
+"Oh wow lol",positive
+"Whr your papa????",interrogative
+"💗from🇮🇳",positive
+"اسلام",miscellaneous
+"Buy kavasaki h2",miscellaneous
+"You should make a donation, like back then",imperative
+"Rented or lease ? 😂",interrogative
+"muh se supari nikaal ke baat karo",miscellaneous
+"Mo Hire A Camera man For ur vlogs",miscellaneous
+"Oh no not a Gixxer",miscellaneous
+"Please donate some money for covid situation Its looks cool then this",imperative
+"عربي ... عربي",miscellaneous
+"I have no foot please help me, I am from Iran",imperative
+"You ride a bike not drive 🤣",corrective
+"I am from Bangladesh. I am very poor. Someone helps me with some money.",imperative
+"I am from Bangladesh. I am very poor. Someone helps me with some money.",imperative
+"great content as always",positive
+"We miss narin on his vlogs come on i was watching mo because i like him with naro",miscellaneous
+"Can you please visit wadiya jin",interrogative
+"كم العراق هنا لوبس اني 😢😢😢",miscellaneous
+"Comment not visible😳",negative
+"Mommy mo can’t ride",miscellaneous
+"Gang gang",miscellaneous
+"👌👌👌👌👌👌👌👌",positive
+"Hi lana very nines",miscellaneous
+"How see the Lana them neil to see lane",miscellaneous
+"Mashallah Broo and sister 🥰🥰",positive
+"I dare you to buy a kawasaki ninja h2",imperative
+"These REV-IT riding jackets are MADE IN BANGLADESH!!! 😌😌",miscellaneous
+"جنجر يولد 😂 واحلى دبل رماش",miscellaneous
+"I came back after 5 years and I'm surprised that he's still going",positive
+"❤️Mohamed😕❤️I miss u handsome❤️😘",positive
+"Superbikes Blog Better than Cars❤️❤️❤️❤️❤️",positive
+"العرب يثبتون وجودهم💪🏻",miscellaneous
+"1:46 i think they heard him scream from ras al khaimah",miscellaneous
+"Bro plz gift me that MT REVENGE SKULL AND ROSES HELMET It’s not available in India 🙏🙏",imperative
+"Lana converted in MEAT SHOP..",miscellaneous
+"If I had money. I used to drive like you. But We are poor so much money to me No. But I would be happy to buy my mother a good sari . It's much happier than my expensive car.😍😍",miscellaneous
+"Big respect and thumbs up for HE cameramother!",positive
+"احكي عربي شوي بترجاك معم افهم شي",miscellaneous
+"Brand new had a different meaning in Dubai I think after this video",miscellaneous
+"Helo mo can u make a vlog for finding a job in dxb",interrogative
+"Kawasaki h2r or Ducati",miscellaneous
+"You should have bought h2 or BMW",imperative
+"LANA please you need to reduce your weight",imperative
+"In India it is not a superbike , sorry but stop calling that eww a superbike 750cc really ??",miscellaneous
+"Suzuki gixer ride🤨?",miscellaneous
+"There is a 3 shock absorbers in back in the bike, 1 is mono shocks and remaining two from pillion..! So it's costly 😉😉🤣😂",miscellaneous
+"lanarose Instagram : lanarose786 https://www.instagram.com/lanarose786/​ My Video: https://youtu.be/xUROgvy0FGM",miscellaneous
+"I love those bikes",positive
+"I want to see narin in vlogs",imperative
+"Ride safe guys,i ride motorclycles too but met with a major accident,hit a lady out of control,cops were called,i was to young to file a case because i was 17 years old,i letmy parents down because of the craze to fly high.be socially responsible and think before you do something",miscellaneous
+"Perfectly suits on u both. Love from NEPAL.",positive
+"ok2 window in bike ok i understand",miscellaneous
+"HI",positive
+"600 cc is not less powerful man",miscellaneous
+"slowest R6 video i haved ever seen",miscellaneous
+"Uhh should make video of Suzuki too bro",imperative
+"3th bike is ninji h2r",miscellaneous
+"bantu saya bang🙏🙏🙏",miscellaneous
+"موفاهم شي",miscellaneous
+"Buy cbr1000rr sp edition and hayabusa 2021",miscellaneous
+"Yamaha r6 looks so... awsm, one of my dream bike",positive
+"MTF were busy for Arabian channel but still not upto mark and coming here for earning money with bullshit content for the World.",negative
+"Very beautiful video",positive
+"Can you please change your profile picture on your youtube channel...?? 😂😂",interrogative
+"Buying 750cc and running at 40km/hr",miscellaneous
+"Can anyone send Money...its urgent",interrogative
+"My dream to meet uh and rashid broo 🥺🥺",miscellaneous
+"Bikes are not safe bro I lost an uncle to this",miscellaneous
+"Your Mother👩 look's Like Your Sisters she is So Cute & Young Buddy",positive
+"Love you alll😍😍",positive
+"ur mom is the best, she is the most adorable and full of grace.",positive
+"Which is Lana's helmet?",interrogative
+"Your hair style is like a jocker",miscellaneous
+"Mo expect your hair to be thin or be bald. If you wear helmets often.",miscellaneous
+"Tie your helmet properly",miscellaneous
+"Bro u did not drove the suzuki gsxr 750",interrogative
+"I love abok",positive
+"mo vlog how can we permanently live in dubai pls comment",interrogative
+"Just love ur vlogs and ur hairstyle❤️",positive
+"You go India",miscellaneous
+"Beautiful ❤️",positive
+"LOL. Just chatted with you on Omegle. Nice to meet you my man. :D Wish I could be as fortunate as you in the financial world! Books is my starting point!! Hope to go further!",positive
+"You should do another video with the bikes but go for a ride with your bike",imperative
+"Everyone knows why they watch ur stupid videos.",negative
+"Ho",miscellaneous
+"https://youtu.be/25AOwvAUP1Q",miscellaneous
+"99.9% people are here only to watch lana❤️",positive
+"Grt",positive
+"Live from Chhattisgarh india🇮🇳",miscellaneous
+"Bahut ach ride",miscellaneous
+"Lana so cute her reaction 😂😂😍😍",positive
+"That girl only knows2 things, it's heavy and powerful",miscellaneous
+"Congratulations!",positive
+"Ye kesi duniya he, ek taraf log brand wali badhiya bike kharid rehe he or dusri taraf oxygen and paise keliye log mar rahe he.Or sabse dukh ki baat ye he ki, ye dusri taraf wale pehele wale ko khub pasand kar te he par pehele wale nehi...!🥺🥺🥺Enjoy 🥺👍",miscellaneous
+"Be safe guys",imperative
+"wowwww",positive
+"*PLEASE ATTENTION WITH BIKE , IS THE MOST DANGEREUX TRANSPORT IN THE WORD, HIGHEST DEATH RATE OF ALL TRANSPORT,  SORY BUT I LOVE YOU , IN DUBAI PEOPLE RUN , THE CAR IS MORE SECURE* 🙏🏼❤",imperative
+"Begairat aurat, Musalman hokar bike chalati ho. Sharm ani chiye. Aur Burkha bhi nahi pehna tune. 4 paise kya aaye, tum Allah ke farz hi bhul gye",miscellaneous
+"ᴵ'ᵐ ˢᵘᵇᵇᶦⁿᵍ ᵗᵒ ᵉᵛᵉʳʸᵒⁿᵉ'ˢ ʷʰᵒ ˡᶦᵏᵉˢ ᵃⁿᵈ ˢᵘᵇˢᶜʳᶦᵇᵉ",positive
+"Give me the r6 before it hurts you Trust me and give it to me as a gift😂",miscellaneous
+"How many think that Mo is going to shift from cars to bikes. Time for a bike shopping spree. In upcoming videos !!!!",interrogative
+"Yes Yamaha!",positive
+"Please sir anyone help me sir my mom heart operation sir please 🥺",imperative
+"Assalamualaikum sir please I need your help sir please ramzan month sir",imperative
+"This man is foreign gobarzone 😂",miscellaneous
+"Love from Bhutan",positive
+"It's ntng differ in Lana Rhodes nd Lana Rose",miscellaneous
+"I love super bike",positive
+"H2 bike",miscellaneous
+"H 2",miscellaneous
+"Who thinks luna is still vergin 😂",interrogative
+"Get some gloves on 😑😑",miscellaneous
+"who else loves his energy in the video pure vibes",positive
+"Who are these fakes?",interrogative
+"Mo rose did well",positive
+"Brand new 🤣🤣🤣🤣🤣🤣these are old models and used bikes",miscellaneous
+"Why are your videos so short?  I would like to watch more.",interrogative
+"I haven't been on your channel for a long time.  You are in great shape",positive
+"Too bad mo never expected friday m yu yu giys arent supposed to be called muslims",miscellaneous
+"❤️Mohamed😕...totally missing the MoVlogs super fun adventure party world morning action spicy scenes in 3…2…1...(1:46) Habibi😘...(0:21) Goood morning!😘...come back super tall handsome supermodel for coolest ever 'HabibiMo' Magazine cover photoshoot in world's first...magic teleporter to Cali cruizin' motor bike of the future omg!...(2:40) Yay!🥰…super fun Cali magazine cover photo gonna be super spicy like...(0:27) Omg! Habibi😘(((Mo))) Te amo mucho amor mio Mo❤️🙏🏻Lana🌹🙏🏻Mohamed🙏🏻❤️u...",positive
+"I dont remember when i watch MOs last video but I see now Lana i soooooo faaattt omg WTF 😆🤯🤑🤑",miscellaneous
+"Your sister is funny. Lana. You're cool girl 💪 Belive in yourself!",positive
+"BADASS !!!",positive
+"Lana is become so fat",miscellaneous
+"Wanna see more biking Vlog😍",positive
+"Lana is becoming fat,🤣",miscellaneous
+"you and your family are fan of music and music is haram",miscellaneous
+"Mo ❤️ lana ❤️ rsbelhasa",positive
+"Lots of subscribers of mo is indian and bangladeahi",positive
+"Pray for India",positive
+"Window 🙄? Do bikes have a window?😂",interrogative
+"I made it home right now, right now, right now, right now ..............🙄",miscellaneous
+"5:40 Fake, let's pretend we're doing cash. See how uncomfortable the guy looks.So obviously staged, cringe.",negative
+"I know that one day you will buy the world",miscellaneous
+"Bhada  kitna  diya  iska  aur  kab  vapas  karni  h  ye🤣🤣",miscellaneous
+"The R6 is old gen and gsxr looks like old one too but both are powerful 🔥🔥",positive
+"👋🙂",positive
+"ARE YO WILLING TO WORK WITH MUSIC PRODUCERS?",interrogative
+"You are known for car not for bike 🤢(lol)",corrective
+"Its been long we haven't saw nareen",miscellaneous
+"Where is Mo’s first outfit from? I love the blue 🔥",interrogative
+"How come Mo don't show Fun & Shakes anymore? The food was so amazing!",interrogative
+"❤️Mohamed😕❤️I miss u handsome❤️😘",positive
+"Lana is so fatty now 😂😂 really!!",miscellaneous
+"Hello dosto 100 ho gye hai 200 karba do",miscellaneous
+""" दुनिया तुम्हें उस वक्त तक नहीं हरा सकती  जब तक तुम खुद से ना हार जाओ !❤️❤️",miscellaneous
+"Silencer is very bad... company fault?  Bcz silencer generate too much noise",negative
+"Brother Your So Lucky Bro And Big Congratulations to you For the Insane SUPERBIKES🥳🥳😎✌...Love You bro From INDIA🇮🇳🇮🇳",positive
+"He has 10million subs but his videos can't even cross 1 m views",negative
+"that's a very bad idea man, be safe",negative
+"Hair me kya kraya ha",miscellaneous
+"Amiro ki mithai😉🙈",miscellaneous
+"😆😆🇵🇭",miscellaneous
+"Bhut paisa hai",miscellaneous
+"So stupid to start on such powerful bikes",negative
+"Next level gang gang",positive
+"Mo😘😘😘😘😘😘",positive
+"u loo way cooler on bikes rather than cars i would love to see more vlogs with the bikes",positive
+"الفيديو ممتاز صلوا على من تمنى رؤيتنا",miscellaneous
+"‏استغفر الله",miscellaneous
+"Is that Rashid with bicycle at 7:23😂",interrogative
+"😍😍😍",positive
+"Stop being Fake Rich",negative
+"U are trending bro 😘",positive
+"Freefire jokers r painted on the wall..❤️",miscellaneous
+"someone notice* that he uses mr.beast   text font.",miscellaneous
+"He mo i want to sayyy you something in dubai styleeeeeee😂😌                                                              Heyyyyy Mo if you want to see the craziest bikes in the world wahlahhabibi come to indiaaaaaa😍😂",miscellaneous
+"They are not brand new😅😅 but congratulations 🎉",positive
+"Make milli of likes so that we can enforce mo to made lana getting off her clothes yeah yeah yeahWhat a devilish idea go for it",negative
+"Every day movlog planning for how i can get lana getting off her clothesJust for made the subscriber be happy and happy and happy",negative
+"I Came Here For Two Huge Reasons....And  I really Love Them....",positive
+"put go pro camera in helmet ❤️❤️‍🔥",positive
+"By riding on bike  you can save a lot of fuel",positive
+"DRAGON QUEEN ❤️🐲",miscellaneous
+"Get ninja h2 to mummy mo",miscellaneous
+"That is not a new bikes😂😂😂I am from middle class family but my brother have a zx10rr 2018 model",miscellaneous
+"I would have wheelied that shit !",miscellaneous
+"Ye bhojpuri didi delivery kr rhi h kya",miscellaneous
+"Kya dekhne aaaye ho mujhe sb pta h.. 🤣🤣",miscellaneous
+"Remember when mo use to skateboard now look super bikes",miscellaneous
+"Mai to lana ke liye aya thaa😂",miscellaneous
+"Love moo😻",positive
+"منو عربي هونن",miscellaneous
+"Mo vlog you look like chapri haircut 🤭🤭🤭",miscellaneous
+"Bhai tera camera low quality ka hai ya tumko editing nhi ata hai",miscellaneous
+"Where Are your riding gloves and Knee Guard???  Don't take risk wear proper safety gears maybe if you become careless next time you will not able to hold your camera stick,stay safe",interrogative
+"Ramadan Mubarak mo vlogs",miscellaneous
+"sexy bikes both.congo",miscellaneous
+"‏هو جمع الفلوس دى كلها إزاي",miscellaneous
+"I think your next bike is Ninja H2 or h2r",miscellaneous
+"Mo Can you go to qatar pls i love you videos so much ❤️",interrogative
+"Please  buy  h2",imperative
+"Amazing action great good job performance join with interest in the wild great documents dangerous like a couple respecting around the go to heaven rising ダゼ～❤👀〰💓🎵～😁～💫👍～💨❕❕",positive
+"7:18 50 रुपए काट, Overacting के। 😂",miscellaneous
+"🇵🇭🇵🇭🇵🇭",miscellaneous
+"Lana Rose.... 😍😍😍",positive
+"Hey here am new ❤️❤️❤️ nyc blog ❤️",positive
+"10 million subscriber and 700k average🤣🤣🤣🤣, looser increasing subscribers from money idiot",negative
+"09:11 is she trying to grab something 🌝",miscellaneous
+"👍👍👍👍❤️",positive
+"Wow, I think this place should have more green trees, can you Plant bro?",interrogative
+"Love From Bangladesh 💜",positive
+"bikers should be fearless. If you dare! Bikes are not for you..",miscellaneous
+"Buy ktm",miscellaneous
+"Why where u both on one you have 2 bikes？？？？？",interrogative
+"Bro buy H2 for UR mummy",miscellaneous
+"How burger you are 😂 you bought the super bikes and you just deliverd them to your house by a truck 🤦🏽‍♂️",interrogative
+"Trending video in india 🔥🔥",positive
+"Covid plzz go from India 😟😟",imperative
+"Did he just say mirror for windshield ?? 😂",interrogative
+"So many INDIANS here! How much did your fav youtuber (Mr. GOLD DIGGER : MO VLOGS) donate to India for covid relief??I AM SURE 0 DOLLARS! these youtubers just want views, nothing else.",negative
+"https://youtu.be/qoySdjIFUHA",miscellaneous
+"9:55 brother and sister after the nasty selfie. 😆",miscellaneous
+"What happened to your sister?????",interrogative
+"Second hand bikes 😂",negative
+"You didn't rode the gsxr",miscellaneous
+"Should have bought zx10r",imperative
+"You ride a gsxr 750 I rode a gsxr 1000",miscellaneous
+"3 months till she crashes",miscellaneous
+"You are again coming in India yes or no",miscellaneous
+"Malayali indo makale❤️",miscellaneous
+"You should buy a powerful bike like h2 or Ducati v4",imperative
+"गर्मी का मौसम आ गया है इसलिए अपने घर के सामने या छत पर पानी 💧🚰जरूर रखें ताकि कुछ बेजुबान पक्षियों🐦🐤को राहत मिल सके🙏🙏🚰👍",miscellaneous
+"Fck 8:09 here we see tarak mehta ka ulta chashma 😂😂",miscellaneous
+"Why no more car shows",interrogative
+"https://youtu.be/_3-kGUNcLx8",miscellaneous
+"Nice hairstyle 💇 Mo❤️",positive
+"Every day is last day",miscellaneous
+"Help me I need money 💰💰 I m from Pakistan",imperative
+"Use GoPro",miscellaneous
+"Why is this even trending in INDIA??😂😂",interrogative
+"कोरोना के कारन जिन लोगों की जान गयी है ,भगवान उनकी आत्मा को शांती दे 🙏 जय हिंद 🇮🇳🇮🇳",miscellaneous
+"U",miscellaneous
+"My dream R6",miscellaneous
+"trending in india 13 😍",positive
+"Trending in India❤️",positive
+"nice one",positive
+"Your video tranding page in india.no-32",positive
+"Overall over 😸",miscellaneous
+"लोकडाउन होने वाला है  तैयार रहना सब लोग, चूटनीया खत्म हो गई है अब। 😭😭😭",miscellaneous
+"मेरे  ✒  दुश्मन भी, मेरे मुरीद हैं शायद,  वक़्त बेवक्त मेरा नाम लिया करते हैं,   मेरी गली से गुज़रते हैं छुपा के खंजर,  रुबरु होने पर सलाम किया करते हैं.",miscellaneous
+"जिस जिस की जैसी नियत वो वैसी             कहानी रखता है ,   कोई परिंदो के लिए बंदूक तो       कोई परिंदो के लिए पानी                 रखता है",miscellaneous
+"Bhai logo lana ki body expand kyun ho rhi h kya karwati h buri lag rahi h",miscellaneous
+"Lana was more pretty in old videos .",miscellaneous
+"Thanks for 1k 👈 1.1 k  krvado guys 😊 Love you all friends 🥀❤️",positive
+"Thanks for 1k 👈1.1 k  krvado guys 😊Love you all friends 🥀❤️",positive
+"Fat lana",miscellaneous
+"Join Udemy Course [6 Hours+] Video: http://bit.ly/2MGOdpl",miscellaneous
+"sir c program ko aru video Pani pathaidinu na",miscellaneous
+"Dai default, switch case ma matra use huncha ki  aaru ma pani??",miscellaneous
+"C program aauxa ra",miscellaneous
+"Dai yesko program kasri lekhne100 whole upon76-89+78/45",miscellaneous
+"Thanks brother ....",positive
+"same yei garda pani tyo 6 number ko error kina dekhako hola daju",miscellaneous
+"Helpful video thank u.",positive
+"Good dive on programming! Keep it up!",positive
+"Can you explain clearly about array in c",interrogative
+"Yo. Could you create a framework that uses nepali language to code? Is that possible?",interrogative
+"Thank you",positive
+"Hamlai bujauna khojeko ki yo program haru kantha gar bhanna khojeko🙄",miscellaneous
+"thank you da.",positive
+"Turbo c rw turbo c++  duitai na gare hunxa ki nai",miscellaneous
+"Thank you sir😭❤️",positive
+"Best explained!!!Thankyou sir!!!!Print F(“keep making these type of  videos”);",positive
+"Thank you sir",positive
+"Can you give me your contact number dai ?",interrogative
+"I need  c programming class dai.",miscellaneous
+"Thank you for this video ❤️💞💝",positive
+"Bord exam ko lagi important question bhandinu na plz",miscellaneous
+"Can you provide me online course.",interrogative
+"Nice video. I wan to see how database connection is done in c and exe files are created.Will you make video on developing real world application such as hotel management system.",interrogative
+"Thank you so much.",positive
+"Thanks 😊",positive
+"Thanks for making this video bro,😘😘😘plz subscribe my channel",positive
+"Thanks a lotyou're a life saver buddy!",positive
+"Thankyou dada 😍🤗",positive
+"What is the use of %d in program...??",interrogative
+"Cpp please",imperative
+"32:59 1 dekhi haina 0 dekhi print vaxa. 1 dekhi garauna k garnu parcha?",miscellaneous
+"Dai macbook pro ma teww dev-C++ downloaded nai hunna plzz help me dai",miscellaneous
+"l am looking is this video . It's very a  effective to all hopeful students and proud of him. thanks for good lesson",positive
+"\n भनेको के हो ? र यस्को काम स्पष्ट भन्नुस् न।",miscellaneous
+"is nepali an indian dialect?",interrogative
+"Void nabhai double ho kii..",miscellaneous
+"9841678927 मलाई चाहियो",miscellaneous
+"ekdamaiii ramro video!!! sabai chaahine kura haru short time mai bujhaidinu vayo tyo pani ekdam clear way ma... yesto content nepal ma pani dekhna paiyo ekdam ramo!!! ajhai banaudai garnu best wishes",miscellaneous
+"Write a program that reverses 120 to 021 and not 21?",miscellaneous
+"Broo thankss",positive
+"how to iterate the pattern 10pattern.c",interrogative
+"sir tyo aafai sum vayera aaune processs nai gardena k vako?",miscellaneous
+"thank u so  much that u made me clear about c programming language",positive
+"dai malai program and programming language ko vedio haldenu hai",miscellaneous
+"bro is this really complete ?",interrogative
+"thanks dai",positive
+"thanks sir",positive
+"thanks bro it's helpful for me so so so much",positive
+"am looking this vdeo one day before my examination hope for best",miscellaneous
+"khoi tw dai tyo pattern explain gareko ha....padne aatnai gayotya j kina less or equal to aako khoi kei vannu vayena",miscellaneous
+"int main( ) ko thauma  Void main ( ) lekhna milx ki nai sir",miscellaneous
+"this video is  really nice for revising the c programming  that we have learnt already thankyou dada for making me revised in a very short time",positive
+"hlw sir iwant to learn c , c++ plz help me my mobile no is 981936361",imperative
+"Hloo dai tyo print f ko thauna ma print jun alpahbet haldey pani huncaki print f nai hunxa !??? Re hunca vaney kina vannu hai",miscellaneous
+"Problem in pattern coding..",miscellaneous
+"OMG Bro this is really  help me Now i subscribe your channel",positive
+"M clear now Daii tnq so much for your video",positive
+"dai hamlai sir le tyo first mai int main ko satta void main lekh vaneko xa..duwai ma k difference xa??",miscellaneous
+"Thanks verry much",positive
+"thanks brother...i learnt c programming.",positive
+"Me 13 years boy likes to use dev c++ kali Linux python and other programming languages",miscellaneous
+"Dai conio.h chai chaahinxa nai?",miscellaneous
+"You solved many problemsDoing great job brother 👍",positive
+"Hello dai tapaiko sabai video hereko dami x ani mero basic knowledge complete vayo malai c ani c++ ma deep learn garna chahanxu pls tapai duitai ko deep learn video provide garnuhunx hjr",miscellaneous
+"Sir hjr LA app develop garnu hunxa",miscellaneous
+"Bro error dekhayo bhane k garne?",miscellaneous
+"Daime xa da da",miscellaneous
+"thank u sir for making me easy to understand than my teacher",positive
+"dai aaru python ko lagi pani k yei dec c++ rakhera gardha hunxa ki nai??",miscellaneous
+"Is this the complete tutorial or part 2 of c programming is coming up?",interrogative
+"nice video, but you made me a confusion that you use operator % in place of congruent modulo n not for modulus. there is different between modulo and modulus. thank you for nice video.",positive
+"My question to you is..As we all agree, computer is all about 0 and 1.How is c language even capable of programming microcontroller.I mean there should be a lingage between two completely different hardware and software worlds.From which language is c made.And from where it all started.",interrogative
+"dami brother",miscellaneous
+"मेरो पनी सब्स्क्राइड गर्नुहुन्छ कि मैले त तपाईको गर्दिसके ।",miscellaneous
+"bro explore more about c++",imperative
+"is ther age boundary to learn it?",interrogative
+"i am having problem with the void cmd",miscellaneous
+"scanf ko meaning ke ho",miscellaneous
+"Can you please tell me more about function.",interrogative
+"Woww thanks bro",positive
+"Brother yo while loop bata 1-50 samma print garda pheri 0 pani print vayo k , suggest the idea plz 🙏🙏 , and it is really intresting brother",imperative
+"Brother array ko example banaidinuna aru pani plzz",miscellaneous
+"Brother yo loop haru ma kunai yeuta jane hunxa ho Sab ko k pharak pharak kam xa ra",miscellaneous
+"Brother ma  gharmai basera self study garna chanaxu malai  html css ani c ko bare maa thorai thorai jankaari poni chaa plzz malai vhanidinuss ma kaa bata start garau ani kasari progress garau plzz helm me i will wait your cmt",miscellaneous
+"#Include<sedio.h> #Include<conio.h>     Main()  {       }",miscellaneous
+"Bro I follow every videos of yours. You're a fantastic instructor. I learned so many things that I could not from my professor. Thank you so much brother. God bless you.",positive
+"dai hami milera nepali programming language banau na hudaina ...if interested reply...i will also help you...",miscellaneous
+"Awesome sir , You contributing that thing to our country which is really very important",positive
+"i know you have done most hard work. but it is not that much basic friendly.",negative
+"Very nice tutorial.",positive
+"Mobile bat programming language sikna   mil6...sir?",miscellaneous
+"i want lerarn full course sir for pass BE . make more difficult question and answer",imperative
+"First of all i am totally a beginner and have a great passion on programming.♥️ I am confused in fibonacci series.For(i=0;i<n-2;i++)What is its work?",interrogative
+"Dev c++ ma chahi clrscr ra getch function nalekhda pani hunxa ho sir??",miscellaneous
+"Help ful video bro..!",positive
+"Babu yesko second part pani bnaunaw",miscellaneous
+"dai tapai ko yo video ramro xa but Array ra  structure  ko again next video  banaunu paryo",miscellaneous
+"linux ko ni tutorial banauna paryo sir",miscellaneous
+"Dai Programming  suru dekhi ending samm kaha baat sikne ra kasari sikne.Ra mobile  phone baat programming  sikna sakinxa ki nai",miscellaneous
+"Thanks alot appreciate it .",positive
+"Wowo this vedio is very helpful Daju",positive
+"Plz make typesala for window 10",imperative
+"Sir it padhne leh kasto programming sikne ho??",miscellaneous
+"dai now return 0 ; is not necessary isn't it?",interrogative
+"You are voter😂",positive
+"Dai comparison ma kina dui chote = use gare ko ho",miscellaneous
+"यति गरे पछि अन्त्यमा के भयो सर,यो के मा प्रयोग गरिन्छ म सिक्न चाहान्छु, सानो सानो एप बनाउन र wab side banuna aafno??plz help me",miscellaneous
+"Bishworaj DaiWhere do you teach?I am giving my SEE this year and want to go forward in IT sector. But I cannot find a best collage to study.",interrogative
+"Sir c programming book Nepal ko Kun Kun thou ma available xa Ani book ko name Vani dinus na",miscellaneous
+"Thanks a lot🙏🙏",positive
+"Katee class ko ho yoo",miscellaneous
+"very good bro",positive
+"Plz datafile ni banaidinu detail mA",miscellaneous
+"Sir datafile ko khai tw yaha",miscellaneous
+"Sir ! May, I use apple script editor.",interrogative
+"Can this video be helpful for class 12",interrogative
+"Right after 1 month ..there's my exam and I m getting a lot through it ..thank u so much",positive
+"2 mahina ma class ma jane bhanda dher 1 ghanta ma janiyo.",miscellaneous
+"dada viva ma k k practise garney clue dinu na plz",miscellaneous
+"Waiting for next video",positive
+"Dai 12th ko each n ever cs ko topic ma video banauna....",miscellaneous
+"dae 🙏",miscellaneous
+"Mero vayena Sadly, I can't send you those screenshots",negative
+"Sir yo video herisakesi class12 ko programming cover hunxa ki nai vandinus na please",miscellaneous
+"मिठो बोली र राम्रो बयान",miscellaneous
+"thanks............",positive
+"Bro hjur le result kasari nikalnu vayo rw",miscellaneous
+"thanks dai for this vedio it helps so much",positive
+"bro data structure and algorithm ko  pani  banaunu paryo auta",miscellaneous
+"Exam ko question ksri garna sir",miscellaneous
+"Finally learned something about c programming.mis.Thank you for this video",positive
+"thank you broo",positive
+"Die plz upload another videos for array and string and also say something about it...",imperative
+"tq dai it helped alot.",positive
+"In c you only need is compiler hoina rah... 🤔",mis
+"Anyone knows about getch function",miscellaneous
+"how funny,,,,learn c in neplai,,,,,,now this is the time to leave earth",miscellaneous
+"Daju...36:15 ma rayako printmyname mathi main ko tala rakhda compile garda error dakhai racha -printmyname(); -",miscellaneous
+"How to make project work class 12",interrogative
+"Hellow sir plz send a progra  3 3 program Ex-OR Gate and Ex-nor gates by using  C++ program send me sir  I request me for your Facebooke id you r not send a program than I request Gmail plz send a progra sir.  I watching your youtube videos I really very nice video upload youtube  I more than more nalage on your youtube videos.  plz send a progra  60 pricital exam marks ko shabal cha sir.plz help me sir.",imperative
+"Sir once again can u plz tell about void",interrogative
+"For me u r like god because before this i have zero knowledge about c and i entered to computer engineering at this time i fell very difficult after this i watch your video  thanks dai",positive
+"HY CAN  WE  SEND THIS  TO THE FRIENDS COMPUTER",interrogative
+"How to create function to remove slash(/) between two strings and then compare the both strings ???  Example: str1[100]= “a/b/c”                   Str2[200]=“c/b/d”  Create function to remove slash (/) and compare both strings using strcmp()......  Ans: true or false (0,1)  I hope you will solve this ... wait for your reply  Thank you sir",imperative
+"Daai🙄 pathaaidinu nah🙄",miscellaneous
+"curly bracket kasari use garney maa videi banaaunu nah?",miscellaneous
+"dai curly bracket kaha kasari diney c maa video banaunu nah🙄",miscellaneous
+"Padhnu vanda agadi nai herda ta ati dherae bujhiyo vane padhayapaci ta jhan bujhiyala niThank you dai for this video😍😍",positive
+"I am a student in Computer Engineering at class 9.We learnt programming without #include<conio.h>",miscellaneous
+"I learn a lot about programming. Thanks for help.",positive
+"daa I am expecting  some help from you daa. it will be very kind if you provide me you email id.",imperative
+"YOU KNOW WHAT DAJU?  after getting this channel I use to sleep in my programming class.",interrogative
+"4 ma blank huna parxa ho?",miscellaneous
+"Great sir",positive
+"I appreciate ur hard work in this video.",positive
+"bro tyo conio chai kati bela chainxa maile use nagarda nee run vairaxa but kunai specific case hola nee use grnu prni?",miscellaneous
+"Case outside  of switch vanxa aba k garne",miscellaneous
+"Sai xa dai",miscellaneous
+"Brother ..... Hjr kata basnu hunxa ni ??",miscellaneous
+"Voli exam xa...kehi tw model questions thaha paye hunthio",miscellaneous
+"Purai news vaneko jasto xa tw😂😂",miscellaneous
+"Hi. Send. Which. number. Mobile.I want to talk to you",imperative
+"Sir hamile management padera software developer  padna milxa?Bachlore ma?",miscellaneous
+"Thanks daju",positive
+"Explanation*",miscellaneous
+"Na array ko explainatuon xa",miscellaneous
+"Functions ko jamma add garako xa",miscellaneous
+"Tait yo sarai sajilo code matra run garayeko xa yesma",miscellaneous
+"*Like if you are a engineering student*",miscellaneous
+"Kasto sajillllo banaidinu vayo kei concept thiyena",miscellaneous
+"Thank you so much daju!!Kada ho daju kada",positive
+"yo dev c++ chalena dai k bhako ekchoti matra chalyo ani khuldai khulena",miscellaneous
+"Bro sdlc explain garnush na",miscellaneous
+"Bro which book will best book for c and c++. And which language will be best at beginning .",interrogative
+"return 0; ko kaam k ho",miscellaneous
+"baru video long hoss ali ramro sanga bujauna paryo ... pointer  bata bujena",miscellaneous
+"Bro you are great 👍🏻",positive
+"Thanks bro.. plz give me some trick also..",positive
+"Turbo c bata pani video binuna dai",miscellaneous
+"I nearly study more than 30 hrs in my class regularly, and I haven't even understand what is C. But by this video I not only understand C programming language but in exam I have scored more than average marks. Thank You Bishworaj Dai for this video.",positive
+"Daju...Floating integer data type ma MOD (%) operator chaldaina ra??",miscellaneous
+"sir subnetting ko pani garnu paryo",miscellaneous
+"bro make video on c++",imperative
+"Is it possible to practice through mobile",interrogative
+"Bro la kati ma parddi hununx ani batchlor ma kun course lida thik hola commerce ma computer field ma jana ho vana tesko bara ma pani full detail, salary, kati time lagx, bst clz yo sab samatara auta video banaunu hola chadai dhanyabad",miscellaneous
+"My parents are Nepali and it’s not my first language, but I rather watch your video because you do an amazing job explaining it",positive
+"la bro aba Nepal ma IT ko development hunupar xa haii..",miscellaneous
+"please dai aruni banaununa c program ko  .... thank u so much for this",miscellaneous
+"Very nice video ... sir can you please send me some new video in C programming for class 12",interrogative
+"khatra bughiyo bro..tysm for making c videos aru pani banaudai garnu bro...ceuz we really need such videos",miscellaneous
+"Math ko simplify garna sakinxa ki nai",miscellaneous
+"DAI VIDEO CHAI  HO K/*BEST/*",miscellaneous
+"thank u dai",positive
+"Dai ma aailay 12 ma  padhdai ho..Ani mailay yo video heray paxi  dherai kura sike.. thanks dai yeti ramrari sikauna Lai...",miscellaneous
+"Sir C++ ko lage pane banaunu parreo  chattai .",miscellaneous
+"Love ur video dai Love from Gulmi I am comp. eng. student from gulmi Siddhababa Sec. School",positive
+"#DAi_i_am_Gulmeli_engineering_student_of_class_9_Siddhababa_school #I_love_ur_videos #How_can_i_Communicate_with_u?? #So_that_i_can_consult_my_problems_with_with_u??",miscellaneous
+"you are amazing bro  big fan of you",positive
+"Thanks bro,You're amzing",positive
+"Dai c ko full chapter ko list vandinu na",miscellaneous
+"Dai int main ra void main eutai ho??",miscellaneous
+"like your video. i am a c programming teacher. i am inspired from your video",positive
+"16.32, explain the fn of scanf...",imperative
+"Please make video on C++ also.Your way of explaining is good.",imperative
+"macbook ko lagi kata bata download garne pani mention gardinuna.",miscellaneous
+"*For free study material, please register here: **https://www.ymgrad.com/account/register/* *For premium study material, please see: **https://www.newstudymaterial.com/*",miscellaneous
+"From where to take my first gre mock test?",interrogative
+"I didn’t find Magoosh mathematics video on their channel, can anyone please tell me how to download those?",interrogative
+"can i ask something , Can we except at least 5 % of  same questions from Manhattan books  in GRE exam ?",interrogative
+"Hi, Can you help with free magoosh videos, did sign up over ymgrad but not found.",interrogative
+"Will you please help me with free magoosh videos?",interrogative
+"Can someone provide me the manhattan 8 books set in pdf format please?",interrogative
+"i am starting from today i will update after 2 months",miscellaneous
+"Nothing mentioned on Verbal other than vocab.",negative
+"Are Magosh Math Videos free to download?",interrogative
+"what is your 12th results?",interrogative
+"How did u prepared for your verbal..and from where",interrogative
+"Which video are you speaking about sir. around 10 min in this video..",interrogative
+"Where to practise Probability questions from? Which one out of Mahattan 8 book set has probability?",interrogative
+"Are you aware that you're promoting piracy here? And selling those pirated resources on your website is really disgusting.",interrogative
+"The first two links in the description are not working!",negative
+"Where can i find the videos?",interrogative
+"Hey I can’t decide which course shall I take that’s my problem!",miscellaneous
+"Where I can get magoosh videos which you suggested in video I haven't found in your website also all are paid one.Please share the link for getting videos free",interrogative
+"If anyone still doubting the strategies, don't. I followed the same and scored 327!!Thanks Yash for this plan and keep up the good work.",positive
+"Can you share the data you showed in a google drive link ?? Cuz we are not able to download it from wherever u hv mentioned! Please help!",interrogative
+"Thank you yash , you motivate a lot by your videos ❤️",positive
+"Can anyone help with the videos? Or where can I find the link?",interrogative
+"What about ETS official review books and general book?",interrogative
+"I had a 326 with a 165 on my quant",miscellaneous
+"Hi Yash, please provide me the link where I can find the Magoosh lesson videos for free. please help",imperative
+"Can i study from ETS books... And then solve manattan 5lb book?!!!.... Please help?!!",interrogative
+"Can anyone provide the link of magoosh videos?",interrogative
+"I took the GRE a week ago and scored low. Now I am following this video and I really hope to be able to come to this video again and giving your efforts a kudos!!!",positive
+"hi,  hope you are doing great. I've a question that is, it would be great if I go for council to IDP and if you have any suggestion please please please let me know.",imperative
+"Where to get maghoosh videos",interrogative
+"Hello Yash, this video was so helpful! How will I get access to the Magoosh video/portal?",interrogative
+"just pay money to agent and get 310 gre now 😏",imperative
+"Is Duolingo English exam is accepted at F1 visa interview?",interrogative
+"Can i have your whatsapp group link for gre?",interrogative
+"You are the shame of Indian.",negative
+"How can i get the access to those magoosh vedio google link...please help me",interrogative
+"These books have different editions available , so is it ok if i do old edition? Are the questions significantly change in new editions?",interrogative
+"غاثصيلا",miscellaneous
+"I gave a mock right now , got 305 .",miscellaneous
+"Can I get magoosh video link",interrogative
+"How to score well in GRE verbal I'm totally pissed off, solved hundred of question gone through plenty of videos, books,  and learned thousands of words, but still no luck.Hardly I'm able to solve 6-7 questions in a 20 question set.Any suggestion???Please help!",imperative
+"Where do i get those magoosh videos?",interrogative
+"Hello Guys I have been providing GRE and TOEFL proxy support for the past 5 months, and students are very happy about the outcome. I can guarantee you a minimum 315 score with an average of 320 and my max is 324. No prior charges, all amount to be paid after you have your score.Interested students can ping me or call 77993324408",imperative
+"Bro can you do me a favour by sharing magoosh videos link plsss",interrogative
+"What was your age when you get in after gre exam",interrogative
+"thank u very much. bless u!",positive
+"I can not get the videos..can you help me to get this",imperative
+"where can you get the magoosh videos for free?! in the US plz",interrogative
+"do anybody have a manhattan account with gre practice paper set? i can pay you in exchange as $50 is bit too much for me",interrogative
+"I have maintained my own dictionary since I was in class 8th. And I always frame sentences and write there. Good to see your dictionary too.",positive
+"Hey yash! Amazing video!! <3 can you upload your GRE preparation folder which you have shown on Google drive and share the link of it. My GRE is exactly after two months from now. It would be a great help.",interrogative
+"Great video. I will follow this. Just a tip, it's not legal to tell people about library genesis and how to get books with copyright for free.",positive
+"8:41",miscellaneous
+"Hi Yash can you share the drive link for Magoosh  videos",interrogative
+"Can you pls provide  Magoosh videos drive link??",interrogative
+"Online GRE test is better or paper based?",interrogative
+"share google drive link for magoosh gre videos",miscellaneous
+"Hey Yash i gave my gre on jan 11 I found quant really tough so i am planning to give gre again plz suggest material because manhatten 5lb is just not enough",miscellaneous
+"Can I get a link of your dictionary",interrogative
+"Today was my first day preparing gre I can't wait",miscellaneous
+"After getting GRE score also , is there any college fees to pay ?",interrogative
+"where can i get the mangoosh GRE vid ?",interrogative
+"Thanks for the information. Very great Starting my preparation now I will keep you updated in 2 months time. Wish me all the best",imperative
+"Where can i get the drive link for magoosh videos",interrogative
+"In which university you are studying?",interrogative
+"God bless you brother",positive
+"Is this all GRE ? I am gonna take the GRE General exam.",interrogative
+"Booked my date FREAKING OUT A LITTLE!!",miscellaneous
+"what about the book ""cracking the GRE""?",interrogative
+"You didn't mention the official GRE material.",corrective
+"please can you share those magoosh videos google drive link?",interrogative
+"anyone know where I can get all those downloaded magoosh videos he had for free? Or do I have to bite the bullet and purchase those?",interrogative
+"Be patience",imperative
+"Going to take the GRE in two months, thank you for this video. Thanks for breaking everything down and making a clear plan, I feel a lot less nervous and more excited to study for this!",positive
+"If any Induan, wanted to write GRE n get 310+ score,  reply me..",miscellaneous
+"I signed up, how can I get free material now?",interrogative
+"PLEASE, can you make a similar video on IELTS....PLEASE PLEASE...",interrogative
+"But Indians are aces in Maths.",positive
+"Thanks for the video! I was wondering do Canadian Unis need all 8 semester marks before I can apply? Or I can apply in the final year till sem 7 marksheets?",positive
+"hey Yash, I am trying to download the books on the link that you mentioned on the video, i do not see any option to download the pdf.",negative
+"What about English?? How do we proceed with that?",interrogative
+"lots of info, thanks a lot bro. I have no idea where to start. hope this helps me.",positive
+"Thanks I got 335 in GRE practicing Manhattan books",positive
+"Can u share material and whatsup link and magoosh videos please I don't have much time it's only one month but i didn't started any preparation please help me",interrogative
+"So informative👏 thank you so much for explaining everything so clearly😊",positive
+"Your website is so informative its just a storehouse for any kind of student who aspires to study abroad❤❤❤",positive
+"I will follow your guide, and comment my score in this thread. I will be giving the GRE in 3months",positive
+"I scored 325/340 with two months of preparation. Thank you so much, brother. This video was the key to my score.😊😊😊",positive
+"200 dollar to pay ..!!!??",miscellaneous
+"Hi Yash, I am currently preparing to take the GRE, and i am a little on the weak side when it comes to Quantitative Reasoning questions. I wanted to ask you where can I find the Magoosh videos that you mentioned that covered each topic? It would be really helpful if you could drop a link that lets me access them. Thank you",interrogative
+"GRE 304/340.possible to get in US universities?",interrogative
+"I am not getting the google drive link for the videos...can someone send me a link from where i can access it?",interrogative
+"Fantastic and useful video. Thank you.",positive
+"Nigga Fast n Furious",miscellaneous
+"Why you droped out, at least you'll pass out then whatever you can do 🙄😒",interrogative
+"I'm preparing it in 3 weeks and I already have other exams at uni. We'll see how it goes.",miscellaneous
+"Can anyone tell me, from where to learn the vocab for GRE Verbal?",interrogative
+"where would I get the online access to these practise tests? please tell.",interrogative
+"Hey, where can I get the Magoosh videos ? Also I am using the Manhattan 5lbs book, is that enough or do I need the 8 books set as well ?",interrogative
+"thank you ... u gave me a boost ..",positive
+"Did you try gmat?",interrogative
+"Can u pls tell the link of video explanation",interrogative
+"still working?",interrogative
+"Good work man",positive
+"I am beginner for GRE. Is this video useful for beginners?",interrogative
+"Where can I receive quant videos by MAGOOSH that you used for preparation? I am preparing for quant section in the coming week. @Yash Mittra",interrogative
+"can anybody help me find the magoosh videos online? i cant find those",interrogative
+"I need to get gre videos to download..where can i get that",interrogative
+"Got 322 / 340 in 1 week prep. learned 200 words",miscellaneous
+"Where will I get those preparation videos",interrogative
+"Saw the PS4 behind you",miscellaneous
+"Your desktop looks a little empty",miscellaneous
+"Got 325 practicing problems from Manhattan books as suggested. Thanks!",positive
+"Quick question- Are Magoosh videos still available? I'm unable to find them any link to the site where I can find them? Your help will be appreciated.",interrogative
+"Thanks I got 316 on the gre",positive
+"Hey Yash, Thankyou for great insights. But how can i get access to those videos? Please help me out.",interrogative
+"2 Months 2 Days left. Let's do it! 💯 💯",imperative
+"330 in* GRE",miscellaneous
+"Does college in india we studied btech ranking matters",interrogative
+"I am so grateful to you. When I was in confusion state. Your video helped me a lot to plan how to study. Thank you so much for sharing your valuable information☺️",positive
+"THANK YOU BHAI !",positive
+"Use your laptop keys softly you are going to break it btw really informative video",positive
+"What was your first mock test score.. Can I know?",interrogative
+"im graduated from design field and I haven't taken any math class for 10 years! my math is so so weak :( Id like to get GRE but realistically im not sure if I can be able to understand the topics, get an enough score.. I have zero information about math.. what do you think?",interrogative
+"wtf who takes 2 months after preparing for govt exams",negative
+"Where do we get magoosh videos?  Gdrive link.?",interrogative
+"Starting today , currently a mathematics student junior 5th semester, have a plan to get 330 within this year",miscellaneous
+"Please reply",imperative
+"Sir there r around 15 videos in each topic of mangoosh videos ( algebra 16 videos) so whether I have to go through    all these or wht to do?",interrogative
+"where can i get magoosh prep question",interrogative
+"confirmed the GRE exam thank u!!!!",positive
+"Your prices are a bit high. Can I pay in installments?",interrogative
+"step 1: be indian",miscellaneous
+"Brother, along with gre did you wrote IELTS tooo??",interrogative
+"Thank you Yash! Followed your schedule and landed a 329 on my GRE. Keep creating more such videos, they're very helpful.",positive
+"Are my 12th standard marks matter to get admission in abroad universities?",interrogative
+"Awesome video, it was very informative. Thanks a lot for sharing the resources",positive
+"can you send the maghoosh portal questions please either in drive link or by some other way",interrogative
+"What about verbal?where to study from?PLEASE TELL(ded)",interrogative
+"Hey?? Can you please mail those mangoosh videos for GRE preparation?",interrogative
+"Hi Yash, Is it important to take GRE to get admission in UK universities??",interrogative
+"hy I am looking for magoosh videos from where can I get them? also are these videos free",interrogative
+"Where do I get the magoosh videos???can u plz provide the link???",interrogative
+"Thank you! Because of your videos and tips I got 331 in GRE! 🔥",positive
+"I wish that you could havr been .my elder brother and helped me in preparing GRE",imperative
+"From where can I get the videos?",interrogative
+"Can I score more than 300 even I don't have a strong background in Maths and reasoning, I don't have any practice  since years .. will 2 months be enough? @Yash Mittra?",interrogative
+"I have a month.",miscellaneous
+"Yo am I late for next year fall intake ?",interrogative
+"where do you find the magoosh lesson videos",interrogative
+"Hey! Can anyone share the drive link of Magoosh Videos....",interrogative
+"Yash Mittra,  Could you please share the Google Drive links for the magoosh material.",interrogative
+"1 month 324, 4/5 admits , my application process result.",miscellaneous
+"I was watching his video in 1.5x and still he said that I am talking too fast I think",miscellaneous
+"here we go... I'll update till I take my test by the end of my 2 months",miscellaneous
+"Bro can i get all these magoosh videos for free.",interrogative
+"Let Me Actually, thank you! XD",positive
+"No free content available currently?",miscellaneous
+"your telegram channel link is there but there is no group link so I can't ping. Please ping the telegram group link.",imperative
+"I would be more than happy if my GRE score is equal to the number of times you say ""alright"". You say ""alright"" like 339 times..",miscellaneous
+"You are too harsh on that keyboard 😅",negative
+"you are showing 2013 manhattan prep. Is there a new edition?",interrogative
+"Hi Where do I find the Magoosh videos?",interrogative
+"thank you very much Sir! your guidelines helped me superbly",positive
+"How can I join your group?",interrogative
+"/I am not able to download manhattan 8 books for gre as mentioned by you what should i do?",interrogative
+"6:30 Where should I take the mock test?",interrogative
+"Will these books still be good for the 2020-2021 GRE ? And would you recommend Manhattan Mcat for med school?",interrogative
+"Where is the material available for free... It is charging me dollars though I have signed up on your website",interrogative
+"These type of people deserve all the likes and subscribers",positive
+"Hi Yash, thanks for all the information! I am unable to get free material. I completed the three tasks but it keep sending an error that ""atleast one of the task was incomplete"". can you please help me here?",interrogative
+"Can u please provide me magoosh video and magoosh question",interrogative
+"Dude did you start giving mock exams in oct but appeared a year later?",interrogative
+"Sir I belong to medical professional so is it for doctors also because my maths is very weak and I am not able to do it in 2 months can u please guide me these resources are enough ??",imperative
+"Bro I am not finding these videos",miscellaneous
+"Hey, from when can I get the mock tests?",interrogative
+"Brooo",miscellaneous
+"what was your CGPA",interrogative
+"Anyone got link to the Magoosh Videos mentioned in the video?",interrogative
+"What is the best source to give GRE Mock Test before starting preparaton?",interrogative
+"what is ambi/mod  university ?",interrogative
+"Slow down!!",imperative
+"This video made me subscribe and write to you!",positive
+"Where can I find the 2017 magoosh google drive link?",interrogative
+"Hey, thanks for a helpful video..can you suggest when to take gre test like last semester, before the last year...when?",interrogative
+"Could anyone pls provide the link of the  Magoosh videos for GRE?",interrogative
+"Can you please upload all these data on a Google drive link or somewhere ?",interrogative
+"Is BSc degree valid as an undergraduate degree for GRE and the world's best university or they only want a professional degree like BE, MBBS etc?",interrogative
+"Sir i am starting my gre prep soon on which book should I hit manhattan Or ets i don't know",interrogative
+"Where can I find the magoosh videos explaining every topic for the first 15 days? I could only found the 100 videos explained answers for test #1",interrogative
+"Please help me improve my verbonal reasoning skills. In this video, there is very less information on how you prepared for it in two months.",imperative
+"Unable to complete my profile in YMGard",negative
+"Thank you sooo much this was so helpful!!",positive
+"bro its a supper video and very help full bro could u provide magoosh video link to download videos",interrogative
+"Hello! Where can I find the Magoosh videos for free?",interrogative
+"what's the website name again?",interrogative
+"Links you share are for paid sites, please share link for ETS' Official GRE Super Power Pack torrent or google drive",imperative
+"Please provide the link for those magoosh videos",imperative
+"hey borther, where do we get mock tests, and how much of it we have to do? the Manhattan problems question contains only 1800 question, while the one you has 2000 questions. is it the same book?",interrogative
+"Hi Yash, I'm a great fan of your content!! Thanks for that. My Query/question is can you please list out the ideal time for an average student to finish each topic in Quants. I understand verbal is huge, only for quant like geometry can be done in 10 hrs or anything as such for all Quants topics. It would be helpful for all the students preparing for GRE.",interrogative
+"Can u pls provide the link to download magoosh videos..for free ..just like u mentioned.",interrogative
+"Dude go easy on your ENTER button. Btw great vedio. I appreciate your effort.",positive
+"I'm lil bit scared of quants and I'm not at good those quants so how can i overcome that??",interrogative
+"Hi Thank you so much for the thorough video : ). Where can I get Magoosh videos?",interrogative
+"Did you get scholarship from any of the colleges in which you were selected ? I want to go for MS in USA but looking for scholarship.",interrogative
+"I don’t get 8 books by your website you told please help me to get that.",negative
+"@Yash Can you tell me how to master GRE Verbal Portion, you didn’t mention those in the current video",interrogative
+"I'm a average student , Am i able to crack gre .",interrogative
+"Hey Yash, thankyou so much for the plan. I'm halfway through Manhattan 5lb. I wanna look into the Magoosh videos that you have. Can you give access to them please ?😭",interrogative
