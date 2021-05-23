@@ -2159,7 +2159,7 @@
 "Excellent presentation",positive
 "you are awesome man. Thanks a lot for your videos.",positive
 "your videos r really very helpfull sir , thank you for making things easy and interesting to understand .",positive
-"programmiz is the first compiler I used , and I love it.",[positive
+"programmiz is the first compiler I used , and I love it.",positive
 "Randomly searched and I  found your channel, Well explained 🙏🙏 ..Thanks a lot sir ..it's really helpful for me..😊",positive
 "https://youtu.be/i83VkP0LHPI?t=491 i did this because i was experimenting I didn't even know if it was going to work",miscellaneous
 "i am in 8th class, i don't known the exact meaning of coding and python but I challenged my brother who is a coder. Now I got confidence that i can defeat my brother. Thanks for teaching me and many other people and also for giving me confidence. thanks you",positive
@@ -2515,7 +2515,7 @@
 "# Taking input of kilometer km = int(input(""Enter the number in km: ""))    # 1km = 0.631371 miles mile = 0.621371   # Multiplying the values ans = int(km) * mile   # Printing the answer print(""The Answer is: "", ans) . . . code to convert km to miles;)",miscellaneous
 "Sorry if I'm wrong, I'm new to this but... Can you do the tuition in four lines instead of five? fee = 4535 discount = fee / 10 discounted_fee = fee - discount print(discounted_fee)  And this for the task: distance_km = 564.5 mile = 0.621371 distance_miles = distance_km * mile print(distance_miles)",interrogative
 "#Addition  print(""         ADDITION                 "") x = input(""Enter First Number"") y = input(""Enter Second Number"") print(""The Answer Is"", x + y )  . . when i execute this code, the thonny ide and the programiz  Online Python Compiler add the number like (2+2=22) and not (2+2=4) i can't understand where the problem is.... Can any one pleaseeeee help me ..........",interrogative
-"Today I'm so happy..successfully written my first program.Thanks so much Sir #Programiz 🙏🙏..",
+"Today I'm so happy..successfully written my first program.Thanks so much Sir #Programiz 🙏🙏..",positive
 "3:11",miscellaneous
 "i love the way he is teaching it. i knew nothing about python a day ago, and now i know many things about it, only watching these videos. Great work👍👌. Thank you Programiz!!!!",positive
 "He is very good in explaning python",positive
@@ -2715,7 +2715,7 @@
 "What means float(input())?Thanks!",interrogative
 "nice explanation",positive
 "Great tutori,   very   professional  and easy to follow. The only problem I have is ....I do not know where to find this ""link below"" where I can check the solution to exercizes at the end of each tutorial.",interrogative
-"Loving this series, I have learned a lot in such a short amount of time :D keep it up!",
+"Loving this series, I have learned a lot in such a short amount of time :D keep it up!",positive
 "No thank you! ❤",positive
 "thank u!",positive
 "thank you sir I was able to complete your home work.",positive
@@ -2753,7 +2753,7 @@
 "Great work!",positive
 "This is by far the most clear and complete explanation of FUNCTIONS I've seen. And I have seen plenty of python for beginners videos. I specially liked the animations showing ""how this program works."" Believe it or not, it made the difference in my total understanding of... well.... how the program worked!   Keep  it up.",positive
 "Thanks for your tutorials!! This is how I did it.. Can you tell me how I can make this look better? Is there anyway I can make it look attractive? Just for fun though. Thanks!  # Create function for addition.  def numberAdd(num1, num2):     sum = num1 + num2     return sum       #Create function for multiplication  def numberMult(num1, num2):      mult = num1 * num2      return mult  user_input1 = int(input(""Enter your first number here: "")) user_input2 = int(input(""Enter your second number here: ""))  print(""The multiplication of your numbers: "", numberMult(user_input1, user_input2)) print(""The addition of your numbers: "", numberAdd(user_input1, user_input2))",positive
-"Awesome work, here's hoping your channel gets bigger",
+"Awesome work, here's hoping your channel gets bigger",positive
 "Wouldn't be simple if i just do this?   N1=5.4 N2= 6.7  def add_numbers(N1,N2):         result= N1+N2          return result  result= add_numbers(N1,N2)  print(''the sum is:    '' , result)   Why do we need the arguments?  Im just a beginner, im tryna learn and to some extent your videos have helped me!!",interrogative
 "When vi call the function???????????????",interrogative
 "The function boty ?????????????????????????????? speak better please!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",imperative
@@ -2889,7 +2889,7 @@
 "I wonder, after checking, why .remove is not working in the case of a dictionary?",interrogative
 "Learning Python isn't so bad, but trying to put it all together is cruel and unusual hell. Just hell for me. Sir, I am so glad I found your videos. You're cheerful, have a well thought-out lesson plan, are easy to understand, and I can actually see the entire code as you type it out. And it's free to boot. Subbed.",positive
 "Thank you sir",positive
-"Amazing tutorials! I have been using programiz.com for a long time for various languages. So I was pleasantly surprised when you released YouTube Videos. Keep up the good work!",positive 
+"Amazing tutorials! I have been using programiz.com for a long time for various languages. So I was pleasantly surprised when you released YouTube Videos. Keep up the good work!",positive
 "Thanks sir",positive
 "Sir, C program tuts after python pls... programiz.com is the best platform 👍",imperative
 "Thanks you sir",positive
@@ -3075,7 +3075,7 @@
 "old AI: humans make all the rules new AI: AI creates the rules based on some human rules",miscellaneous
 "3:06:00",miscellaneous
 "Tim: I have horrible handwriting Me: you think yours is bad",miscellaneous
-"Thank you for your generosity",position
+"Thank you for your generosity",positive
 "1:25:00",miscellaneous
 "often i found that those wo work in ai do not make web applications and other stuff how come you are involved int those stuff so much and still got the expertise in ai/ machine learning and tensorflow, that is why i felt inside that this course is just meant to give a course and better value would be provided with someone who focuses only on ai / ml and not everything",interrogative
 "Straight heat. Thanks Tim!",positive
@@ -3737,7 +3737,7 @@
 "i can't do anything to help u guys but u're the best",positive
 "parch: The dataset defines family relations in this way...Parent = mother, fatherChild = daughter, son, stepdaughter, stepsonSome children travelled only with a nanny, therefore parch=0 for them.",miscellaneous
 "Your couse is amazing.",positive
-"10:26 "miscellaneous
+"10:26 ",miscellaneous
 "Neural Networks get people really hyped...",miscellaneous
 "Me: Looks at video title Me: ""I see what you did there.",miscellaneous
 "lol so many bots in comments!! Wow! I love bots! My bots are going places! only 300 bots in! How anyone can dislike bots i don't know!",miscellaneous
@@ -4247,7 +4247,7 @@
 "thank you broo",positive
 "Die plz upload another videos for array and string and also say something about it...",imperative
 "tq dai it helped alot.",positive
-"In c you only need is compiler hoina rah... 🤔",mis
+"In c you only need is compiler hoina rah... 🤔",miscellaneous
 "Anyone knows about getch function",miscellaneous
 "how funny,,,,learn c in neplai,,,,,,now this is the time to leave earth",miscellaneous
 "Daju...36:15 ma rayako printmyname mathi main ko tala rakhda compile garda error dakhai racha -printmyname(); -",miscellaneous
@@ -5107,7 +5107,7 @@
 "Today is my exam wish me luck.",imperative
 "NO.11 is the big and most important point .....!!!",miscellaneous
 "Thanks a lot.... I have exam on 25th February..",positive
-"is it okay to write my answers in listening and reading in Capital letters?",interaction
+"is it okay to write my answers in listening and reading in Capital letters?",interrogative
 "I have exam on this 9th",miscellaneous
 "Thnku❤️",positive
 "Can you send me computer based. material bro i",interrogative
@@ -5518,7 +5518,7 @@
 "This dude is really helpful, for real!=D",positive
 "Amazing videos! Thanks for the templates that you provided",positive
 "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️",positive
-"haha but I speak like a robot naturally.", miscellaneous
+"haha but I speak like a robot naturally.",miscellaneous
 "THIS CHANNEL IS IT GUYS!! Hey Josh, I took my TOEFL a week ago and got a 30 on the speaking section. I started my preparation (a few days before the exam) and ended it going over your videos and they helped me more than anything out there. You're an amazing teacher, thanks a lot!!!!",positive
 "is there any app or software that validates toefl speaking ?",interrogative
 "This is exactly what I’d been looking for! I love how you talk patiently:)",positive
@@ -6079,7 +6079,7 @@
 "Thank you sir.",positive
 "Thank you. I just subscribed. Greetings from Brazil.",positive
 "Please create video about back end like this:)",imperative
-"And what if you don't have a good laptop 😔😔😔😔",interaction
+"And what if you don't have a good laptop 😔😔😔😔",interrogative
 "Front end development hell hard 😔",negative
 "Boostrap is good save your time",positive
 "I am frome algerian ..",miscellaneous
@@ -7912,7 +7912,7 @@
 "The best channel to subscribe for studying abroad ✨✨✨👍👍",positive
 "Been there from a long timeeee !",miscellaneous
 "Its been a year... From laptop to a big*** screen! Skinny to a little bigger biceps😂.. you have given a lot to us.. wish to see you more successful!! ❤️🔥",imperative
-"Thanks Yash",positively
+"Thanks Yash",positive
 "Make video on PhD program in Europe in agriculture or horticulture ( funded one)",imperative
 "Will this timeline be applicable for fall 21 considering the current circumstances or a bit of delay from the university side is expected ???",interrogative
 "Watching right from 2018 !",miscellaneous
@@ -9065,7 +9065,7 @@
 "Is it worth going for MBA directly after engineering or should I get some work experience ?? please help me.",interrogative
 "Hi sir, I have 3.6 years of work experience in TCS.my academics are b tech(69%),12th 91 and 10th 85. I am planning to do MBA in isb or abroad.currently preparing for GRE ,expecting 320 marks. I have good extracurricular activities in school,college and in TCS as well. I am a Toastmaster from past 2.5 years and worked as a president of the club. And in TCS I am also part of CSR activities.  What are my chances of getting into isb and other MBA colleges in abroad. Any areas I need to improve?. Thanks.",interrogative
 "Dear sir,  I am a student of Engineering in My Bsc honours level at 4rth yr. If I want to get admit in MBA program in Canada with scholarship how can I manage that? What will be the Requirement?  Isnt there any GMAT needed fo the scholarship.Please reply.",interrogative
-"hiii sir...my quirey is as a b.tech graduate can i join MBA directly in any abroad universities or should i have any working experience?",
+"hiii sir...my quirey is as a b.tech graduate can i join MBA directly in any abroad universities or should i have any working experience?",interrogative
 "Respected sir, I am Dhruval Mehta. Now I am in 3rd Year of Engineering and I want to do master in Automation as well as want to do in MBA but maybe it is not possible to do both at the same time. so I required help from you that is there any option to earn Management skill as well as a leadership skill? Thanking You!",interrogative
 "I have 4+ years of experience in IT as software analyst. Academic 82 in graduation (civil engineer KIIT). 75 in 12 and 87 in 10. I am planning to give GMAT. What are my chances abroad and in India.",interrogative
 "Sir, what if i do MBA from any cheap universities or institute but i push all of my hard work in it....and i learn mba finance by myself by doing hardwork....then....can i get a better job ..or better salary....or can i go abroad ....will my mba from that university be valuable ...or not...will abroad and company see my tallents or will they see the university????????",interrogative
@@ -9143,7 +9143,7 @@
 "How many years the gre and gmat is valid",interrogative
 "Hi , I am currently pursuing a bachelor's degree in Economics (2nd year). I actually need guidance regarding what I am thinking is right for me or not, I am in a state of dilemma since everything is kind of foggy. Me and my family are planning to migrate to the USA, so would it be a good option to leave my UG midway and start a new journey, new college life from start? Starting my bachelors all over again? also considering that there it would be a 4 years program!",interrogative
 "👌💯👍",positive
-"Sure, you could learn marketing skills from experts in the craft (such as politicians!), but the top recruiters expect a formal marketing degree from a reputed business school.  Please give us a pat on the back, by hitting the like button on the video and posting your feedback in the comments.", imperative
+"Sure, you could learn marketing skills from experts in the craft (such as politicians!), but the top recruiters expect a formal marketing degree from a reputed business school.  Please give us a pat on the back, by hitting the like button on the video and posting your feedback in the comments.",imperative
 "Do manufacturing and food processing companies hire sales managers?",interrogative
 "Hello sir, can you tell me which English-speaking country is better for MBA in food and agribusiness management?  Based on salary and work opportunities as well?",interrogative
 "Sir I'm 12th passed and I wanted to do MBA  so which graduation degree   I took now  as science student",imperative
